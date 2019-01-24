@@ -1,0 +1,197 @@
+# Copyright 1997-2013 The Board of Trustees of Leland Stanford Junior University. Permission to use the information contained in this database was given by the researchers/institutes who contributed or published the information. Users of the database are solely responsible for compliance with any copyright restrictions, including those applying to the author abstracts. Documents from this server are provided "AS-IS" without any warranty, expressed or implied.
+#
+# Authors:
+#    J. Michael Cherry
+#    Benjamin Vincent
+#    Rama Balakrishnan
+#    Julie Park
+#    Eurie Hong
+#    Cynthia Krieger
+#    Ron Caspi
+#    Hartmut Foerster
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Saccharomyces cerevisiae S288c
+# Database: NIL
+# Version: 22.6
+# File Name: species.dat
+# Date and time generated: November 20, 2018, 14:28:33
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    BIOMASS-TEMPLATES
+#    CCO-INSTANCES
+#    CITATIONS
+#    COMMENT
+#    CONTACT-EMAIL
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    GENETIC-CODE
+#    GENOME
+#    GENOME-UPDATE-DATE
+#    HIDDEN-NAMES
+#    HIDE-SLOT?
+#    INFERENCE-STATS
+#    INSTANCE-NAME-TEMPLATE
+#    MEMBER-SORT-FN
+#    MITOCHONDRIAL-GENETIC-CODE
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    PGDB-AUTHORS
+#    PGDB-COPYRIGHT
+#    PGDB-FOOTER-CITATION
+#    PGDB-HOME-PAGE
+#    PGDB-LAST-CONSISTENCY-CHECK
+#    PGDB-NAME
+#    PGDB-TIER
+#    PGDB-TYPE
+#    PGDB-UNIQUE-ID
+#    RANK
+#    SEQUENCE-SOURCE
+#    STRAIN-NAME
+#    SUBSPECIES-NAME
+#    SYNONYMS
+#
+UNIQUE-ID - YEAST
+TYPES - TAX-559292
+COMMON-NAME - Saccharomyces cerevisiae
+CCO-INSTANCES - CCI-CYTOSKELETON-FUN
+CCO-INSTANCES - CCI-RIBOSOME-FUN
+CCO-INSTANCES - CCI-FLAGELLUM-FUN
+CCO-INSTANCES - CCI-NUCLEUS-FUN
+CCO-INSTANCES - CCI-NUC-IMEM-FUN
+CCO-INSTANCES - CCI-NUC-OMEM-FUN
+CCO-INSTANCES - CCI-NUC-ENV-FUN
+CCO-INSTANCES - CCI-NUC-LUM-FUN
+CCO-INSTANCES - CCI-PERINUC-SPC-FUN
+CCO-INSTANCES - CCI-NUCLEOLUS-FUN
+CCO-INSTANCES - CCI-MIT-FUN
+CCO-INSTANCES - CCI-MIT-OMEM-FUN
+CCO-INSTANCES - CCI-MIT-IMEM-FUN
+CCO-INSTANCES - CCI-MIT-NUCLEOID-FUN
+CCO-INSTANCES - CCI-MIT-ENV-FUN
+CCO-INSTANCES - CCI-MIT-LUM-FUN
+CCO-INSTANCES - CCI-MIT-IM-SPC-FUN
+CCO-INSTANCES - CCI-ACIDOCALCISOME-FUN
+CCO-INSTANCES - CCI-ACIDCALC-LUM-FUN
+CCO-INSTANCES - CCI-ACIDCALC-MEM-FUN
+CCO-INSTANCES - CCI-GOLGI-FUN
+CCO-INSTANCES - CCI-GG-CIS-CIST-FUN
+CCO-INSTANCES - CCI-GOLGI-LUM2-FUN
+CCO-INSTANCES - CCI-GOLGI-CIST-MEM2-FUN
+CCO-INSTANCES - CCI-GG-MED-CIST-FUN
+CCO-INSTANCES - CCI-GOLGI-LUM1-FUN
+CCO-INSTANCES - CCI-GOLGI-CIST-MEM1-FUN
+CCO-INSTANCES - CCI-GG-TR-CIST-FUN
+CCO-INSTANCES - CCI-GOLGI-LUM-FUN
+CCO-INSTANCES - CCI-GOLGI-CIST-MEM-FUN
+CCO-INSTANCES - CCI-TR-GOLGI-VES-FUN
+CCO-INSTANCES - CCI-GOLGI-VES-MEM3-FUN
+CCO-INSTANCES - CCI-VES-LUM3-FUN
+CCO-INSTANCES - CCI-ER-GOLGI-VES-FUN
+CCO-INSTANCES - CCI-GOLGI-VES-MEM2-FUN
+CCO-INSTANCES - CCI-VES-LUM2-FUN
+CCO-INSTANCES - CCI-GOLGI-ER-VES-FUN
+CCO-INSTANCES - CCI-GOLGI-VES-MEM1-FUN
+CCO-INSTANCES - CCI-VES-LUM1-FUN
+CCO-INSTANCES - CCI-INTER-GOLGI-VES-FUN
+CCO-INSTANCES - CCI-GOLGI-VES-MEM-FUN
+CCO-INSTANCES - CCI-VES-LUM-FUN
+CCO-INSTANCES - CCI-LATE-ENDO-FUN
+CCO-INSTANCES - CCI-LATE-END-LUM-FUN
+CCO-INSTANCES - CCI-LATE-ENDO-MEM-FUN
+CCO-INSTANCES - CCI-EARLY-ENDO-FUN
+CCO-INSTANCES - CCI-EARLY-END-LUM-FUN
+CCO-INSTANCES - CCI-EARLY-ENDO-MEM-FUN
+CCO-INSTANCES - CCI-PEROXISOME-FUN
+CCO-INSTANCES - CCI-PEROX-LUM-FUN
+CCO-INSTANCES - CCI-PEROX-MEM-FUN
+CCO-INSTANCES - CCI-GLYCOSOME-FUN
+CCO-INSTANCES - CCI-GLYCO-LUM-FUN
+CCO-INSTANCES - CCI-GLYCO-MEM-FUN
+CCO-INSTANCES - CCI-ROUGH-ER-FUN
+CCO-INSTANCES - CCI-RGH-ER-LUM-FUN
+CCO-INSTANCES - CCI-RGH-ER-MEM-FUN
+CCO-INSTANCES - CCI-SMOOTH-ER-FUN
+CCO-INSTANCES - CCI-SMTH-ER-LUM-FUN
+CCO-INSTANCES - CCI-SMTH-ER-MEM-FUN
+CCO-INSTANCES - CCI-ENDOCYT-VES-FUN
+CCO-INSTANCES - CCI-ENDOCYT-VES-LUM-FUN
+CCO-INSTANCES - CCI-ENDOCYT-VES-MEM-FUN
+CCO-INSTANCES - CCI-SEC-GRANULE-FUN
+CCO-INSTANCES - CCI-SEC-GRANULE-MEM-FUN
+CCO-INSTANCES - CCI-SEC-GRANULE-LUM-FUN
+CCO-INSTANCES - CCI-STORAGE-VAC-FUN
+CCO-INSTANCES - CCI-VAC-LUM-FUN
+CCO-INSTANCES - CCI-VAC-MEM-FUN
+CCO-INSTANCES - CCI-CW-FUNGI-FUN
+CCO-INSTANCES - CCI-PM-FUNGI-FUN
+CCO-INSTANCES - CCI-CYTOSOL-FUN
+CCO-INSTANCES - CCI-EXTRACELLULAR-FUN
+CCO-INSTANCES - CCI-PERI-FUNGI-FUN
+COMMENT - YeastCyc is a Pathway/Genome Database of the model eukaryote |FRAME: TAX-4932|. The sequence information was obtained from the reference genome for the strain |FRAME: TAX-559292|.
+/In addition to genomic information, the database contains metabolic pathway, reaction, enzyme, and compound information, which has been manually curated from the scientific literature. 
+/
+/The database was generated in 2002 by the <A href="http://www.yeastgenome.org/">SGD</A> project using SRI International's <A href="http://bioinformatics.ai.sri.com/ptools/">Pathway Tools</A> software, and benefited from significant curation by SGD (SGD curation was funded by grant HG001315 from the National Human Genome Research Institute of the US National Institutes of Health). In 2012 the database was transferred to SRI International, where it is curated by curators from the SRI Bioinformatics Research Group, and from the <A href="http://bti.cornell.edu/">Boyce Thompson Institute</A>. That curation process includes periodic updates to the metabolites, reactions, and pathways from the current version of <A href="http://metacyc.org/">MetaCyc</A> to ensure compatibility with other members of the MetaCyc family of databases.  YeastCyc has been curated from 1,800 publications.
+CONTACT-EMAIL - sgd-helpdesk@lists.stanford.edu
+DBLINKS - (NCBI-TAXONOMY-DB "559292" NIL |caspi| 3731779324 NIL NIL)
+DBLINKS - (GOLD "0076025" NIL |paley| 3620197535 NIL NIL)
+GENETIC-CODE - 1
+GENOME - CHROMOSOME1
+GENOME - CHROMOSOME2
+GENOME - CHROMOSOME3
+GENOME - CHROMOSOME4
+GENOME - CHROMOSOME5
+GENOME - CHROMOSOME6
+GENOME - CHROMOSOME7
+GENOME - CHROMOSOME8
+GENOME - CHROMOSOME9
+GENOME - CHROMOSOME10
+GENOME - CHROMOSOME11
+GENOME - CHROMOSOME12
+GENOME - CHROMOSOME13
+GENOME - CHROMOSOME14
+GENOME - CHROMOSOME15
+GENOME - CHROMOSOME16
+GENOME - MITOCHROMOSOME
+MITOCHONDRIAL-GENETIC-CODE - 3
+PGDB-AUTHORS - cherry
+PGDB-AUTHORS - vincent
+PGDB-AUTHORS - balakrishnan
+PGDB-AUTHORS - park
+PGDB-AUTHORS - hong
+PGDB-AUTHORS - krieger
+PGDB-AUTHORS - caspi
+PGDB-AUTHORS - hartmut
+PGDB-COPYRIGHT - Copyright 1997-2013 The Board of Trustees of Leland Stanford Junior University. Permission to use the information contained in this database was given by the researchers/institutes who contributed or published the information. Users of the database are solely responsible for compliance with any copyright restrictions, including those applying to the author abstracts. Documents from this server are provided "AS-IS" without any warranty, expressed or implied.
+PGDB-HOME-PAGE - http://metacyc.org/YEAST/organism-summary?object=YEAST
+PGDB-LAST-CONSISTENCY-CHECK - 3688316869
+PGDB-TIER - 1
+PGDB-UNIQUE-ID - 3O
+RANK - |strain|
+STRAIN-NAME - S288c
+SYNONYMS - Saccharomyces cerevisiae S288c
+SYNONYMS - ATCC 18824 <ex-type>
+SYNONYMS - CBS 1171
+SYNONYMS - CBS 1171 <ex-type>
+SYNONYMS - Candida robusta
+SYNONYMS - NRRL Y-12632
+SYNONYMS - NRRL Y-12632 <ex-type>
+SYNONYMS - Saccaromyces cerevisiae
+SYNONYMS - Saccharomyces capensis
+SYNONYMS - Saccharomyces italicus
+SYNONYMS - Saccharomyces oviformis
+SYNONYMS - Saccharomyces uvarum var. melibiosus
+SYNONYMS - Saccharomyes cerevisiae
+SYNONYMS - Sccharomyces cerevisiae
+SYNONYMS - bakers yeast
+SYNONYMS - brewers yeast
+SYNONYMS - lager beer yeast
+SYNONYMS - yeast
+NCBI-TAXONOMY-ID - 0076025

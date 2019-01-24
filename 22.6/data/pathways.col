@@ -1,0 +1,355 @@
+# Copyright 1997-2013 The Board of Trustees of Leland Stanford Junior University. Permission to use the information contained in this database was given by the researchers/institutes who contributed or published the information. Users of the database are solely responsible for compliance with any copyright restrictions, including those applying to the author abstracts. Documents from this server are provided "AS-IS" without any warranty, expressed or implied.
+#
+# Authors:
+#    J. Michael Cherry
+#    Benjamin Vincent
+#    Rama Balakrishnan
+#    Julie Park
+#    Eurie Hong
+#    Cynthia Krieger
+#    Ron Caspi
+#    Hartmut Foerster
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Saccharomyces cerevisiae S288c
+# Database: NIL
+# Version: 22.6
+# File Name: pathways.col
+# Date and time generated: November 20, 2018, 14:28:52
+#
+#		1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32	33	34	35	36
+UNIQUE-ID	NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID
+PWY-7286	7-(3-amino-3-carboxypropyl)-wyosine biosynthesis	TYW3	TYW2	TYW1	TRM5																																	G3O-30560	G3O-32610	G3O-34098	G3O-31120																																
+PWY-5659	GDP-mannose biosynthesis	PMI40	SEC53	PSA1	PGI1																																	YER003C	YFL045C	YDL055C	YBR196C																																
+DETOX1-PWY	superoxide radicals degradation	SOD1	SOD2	CTA1	CTT1																																	YJR104C	YHR008C	YDR256C	YGR088W																																
+PWY0-1305	L-glutamate degradation to 4-aminobutanoate	GAD1																																				YMR250W																																			
+PWY0-662	PRPP biosynthesis	PRS4	PRS2	PRS3	PRS1	PRS5																																YBL068W	YER099C	YHL011C	YKL181W	YOL061W																															
+PWY3O-3827	glucose-6-phosphate biosynthesis	HXK1	HXK2	GLK1	YLR446W	EMI2																																YFR053C	YGL253W	YCL040W	G3O-32501	G3O-30035																															
+PWY3O-123	dolichyl phosphate D-mannose biosynthesis	PMI40	SEC53	DPM1																																		YER003C	YFL045C	YPR183W																																	
+PWY-5458	methylglyoxal degradation V	CYB2	GRE2	HFD1	ALD2	ALD3	ALD5	ALD4																														YML054C	YOL151W	G3O-32806	YMR170C	YMR169C	G-10421	G-10422																													
+PWY-5386-1	methylglyoxal catabolism	GLO1	GLO4	GLO2	DLD2	DLD1	DLD3																															YML004C	YOR040W	YDR272W	YDL178W	YDL174C	YEL071W																														
+PWY-6466	pyridoxal 5'-phosphate biosynthesis II	SNO1	SNZ1																																			G3O-32795	G3O-32796																																		
+ARO-YEAST-PWY	chorismate biosynthesis	ARO2	ARO1	ARO4	ARO3																																	YGL148W	YDR127W	YBR249C	YDR035W																																
+PWY-6164	3-dehydroquinate biosynthesis	ARO1	ARO4	ARO3																																		YDR127W	YBR249C	YDR035W																																	
+PWY-5886	4-hydroxyphenylpyruvate biosynthesis	ARO8																																				YGL202W																																			
+PWY3O-1874	p-aminobenzoate biosynthesis	ABZ2	ABZ1																																			G3O-84	YNR033W																																		
+PWY-7268	NAD/NADP-NADH/NADPH cytosolic interconversion	ALD6	IDP2	ZWF1	POS5	YEF1	UTR1																															G-10420	YLR174W	YNL241C	G3O-34081	G3O-30162	G3O-31684																														
+PWY-5067	glycogen biosynthesis	GLG1	GLG2	GSY1	GSY2	GLC3																																YKR058W	YJL137C	YFR015C	YLR258W	YEL011W																															
+PWY3O-70	chitosan biosynthesis	CDA2	CDA1																																			YLR308W	YLR307W																																		
+PWY-6773	1,3-&beta;-D-glucan biosynthesis	FKS2	FKS1	FKS3																																		YGR032W	YLR342W	G3O-32970																																	
+ARGSYNBSUB-PWY	arginine biosynthesis	ARG1	ARG4	ARG3	ARG8	ARG5,6	ARG7	CPA1	CPA2	ARG2																												YOL058W	YHR018C	YJL088W	YOL140W	YER069W	YMR062C	YOR303W	YJR109C	YJL071W																											
+PWY-7790	UMP biosynthesis II	URA2	URA4	URA10	URA5	URA3	URA1																															YJL130C	YLR420W	YMR271C	YML106W	YEL021W	YKL216W																														
+PYRIMID-RNTSYN-PWY	de novo biosynthesis of pyrimidine ribonucleotides	URA2	URA4	URA10	URA5	URA3	YNK1	URA7	URA8	URA6	URA1																											YJL130C	YLR420W	YMR271C	YML106W	YEL021W	YKL067W	YBL039C	YJR103W	YKL024C	YKL216W																										
+PWY-7985	oxalate degradation VI	FDH1	YEL020C	AAE3																																		YOR388C	G3O-30145	G3O-29157																																	
+PWY-5768	pyruvate fermentation to acetate VIII	PDC1	PDC5	PDC6	ALD5	ALD4	ALD6																															YLR044C	YLR134W	YGR087C	G-10421	G-10422	G-10420																														
+PWY3O-4	carnitine shuttle	YAT1	YAT2	CAT2																																		YAR035W	YER024W	YML042W																																	
+PWY-7424	sterol:steryl ester interconversion	ARE1	ARE2	TGL1	YEH1	YEH2																																YCR048W	YNR019W	YKL140W	G3O-32117	G3O-32181																															
+PWY-7184	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I	NPP2	NPP1	DUT1	CDC21	CDC8	YNK1	RNR2	RNR4	RNR1	YND1	TRX3	TRX1	TRX2																								G3O-30141	G3O-29341	YBR252W	YOR074C	YJR057W	YKL067W	YJL026W	YGR180C	YER070W	G3O-30192	G3O-35	G3O-7	G3O-19																							
+PWY-7800	Ac/N-end rule pathway	NAT5	ARD1	NAT1	MAP1	MAP2	MDM20	NAT3	NAT2	MAK31	MAK10	MAK3																										G3O-33744	YHR013C	YDL040C	YLR244C	YBL091C	G3O-33480	G3O-34267	YGR147C	G3O-29336	G3O-30171	YPR051W																									
+ASPARAGINE-BIOSYNTHESIS	asparagine biosynthesis	ASN2	ASN1																																			YGR124W	YPR145W																																		
+PWY-7197	pyrimidine deoxyribonucleotide phosphorylation	CDC8	YNK1																																			YJR057W	YKL067W																																		
+TRNA-CHARGING-PWY	tRNA charging	YDR341C	MSR1	YNL247W	GLN4	GUS1	MSE1	ILS1	ISM1	NAM2	CDC60	VAS1	ALA1	SLM5	DED81	MSD1	TYS1	MSY1	MSW1	WRS1	THS1	MST1	SES1	DIA4	AIM10	YHR020W	FRS2	MSF1	MES1	MSM1	KRS1	MSK1	HTS1	GRS1	GRS2	TRR4	TRT2	G3O-29896	G3O-31138	G3O-33244	G3O-33684	G3O-30716	G3O-33449	G3O-28968	G3O-33954	G3O-32448	G3O-34056	G3O-30804	G3O-33810	G3O-29339	G3O-31080	G3O-34006	G3O-30875	G3O-34000	G3O-29838	G3O-33496	G3O-31343	G3O-31956	G3O-29640	G3O-31074	G3O-30256	G3O-31081	G3O-30438	G3O-34202	G3O-30933	G3O-30867	G3O-29651	G3O-33102	G3O-34192	G3O-29078	G3O-34225	G3O-32554	G3O-32087
+PWY-7210	pyrimidine deoxyribonucleotides biosynthesis from CTP	CDC8	YNK1	RNR2	RNR4	RNR1	YND1	DCD1	CDC21	TRX3	TRX1	TRX2																										YJR057W	YKL067W	YJL026W	YGR180C	YER070W	G3O-30192	YHR144C	YOR074C	G3O-35	G3O-7	G3O-19																									
+PWY-6829	tRNA methylation	TRM1	TRM4	TRM7	TRM9	TRM112	TRM11	TRM13	TRM44	GCD10	GCD14	TRM5																										G3O-29720	G3O-28927	YBR061C	G3O-32618	G3O-33353	G3O-33520	G3O-33521	G3O-33945	G3O-33092	G3O-31576	G3O-31120																									
+PWY3O-661	butanediol biosynthesis	BDH1																																				YAL060W																																			
+PWY3O-64	methionine salvage pathway	ADI1	UTR4	MRI1	MEU1	MDE1																																G3O-32717	G3O-137	G3O-34257	G3O-114	G3O-31663																															
+PWY-6536	4-aminobutyrate degradation	UGA1	UGA2																																			YGR019W	YBR006W																																		
+PWY-5697	allantoin degradation to ureidoglycolate I (urea producing)	DAL1	DAL2																																			YIR027C	YIR029W																																		
+PWY-5703	urea degradation	DUR1,2																																				YBR208C																																			
+PWY-5350	thiosulfate disproportionation III (rhodanese)	TUM1	RDL1																																			YOR251C	G3O-33771																																		
+PWY-5084	2-ketoglutarate dehydrogenase complex	LPD1	KGD1	KGD2																																		YFL018C	YIL125W	YDR148C																																	
+PWY-5938	(<i>R</i>)-acetoin biosynthesis I	ILV2	ILV6	BDH1																																		YMR108W	YCL009C	YAL060W																																	
+PWY3O-440	acetoin biosynthesis III	PDC1	PDC5	PDC6																																		YLR044C	YLR134W	YGR087C																																	
+PWY-5486	pyruvate fermentation to ethanol II	ADH2	ADH1	ADH3	ADH5	PDC1	PDC5	PDC6																														YMR303C	YOL086C	YMR083W	YBR145W	YLR044C	YLR134W	YGR087C																													
+PWY-5951	(<i>R,R</i>)-butanediol biosynthesis	BDH1																																				YAL060W																																			
+PWY-6392	<i>meso</i>-butanediol biosynthesis II	BDH1																																				YAL060W																																			
+NONOXIPENT-PWY	pentose phosphate pathway (non-oxidative branch)	TAL1	NQM1	TKL2	TKL1	RPE1	RKI1																															YLR354C	YGR043C	YBR117C	YPR074C	YJL121C	YOR095C																														
+OXIDATIVEPENT-PWY	pentose phosphate pathway (oxidative branch)	SOL3	SOL4	SOL2	SOL1	ZWF1	GND1																															YHR163W	YGR248W	G3O-29399	G3O-33344	YNL241C	YHR183W																														
+GLYCOLYSIS-YEAST-PWY	glycolysis	CDC19	PYK2	ENO1	ENO2	ERR1	ERR2	ERR3	DET1	GPM2	YOR283W	GPM3	PGK1	TDH3	TDH2	TDH1	TPI1	FBA1	PFK1	PFK2	PGI1																	YAL038W	YOR347C	YGR254W	YHR174W	YOR393W	YPL281C	YMR323W	G3O-29661	G3O-29450	G3O-33769	G3O-33467	YCR012W	YGR192C	YJR009C	YJL052W	YDR050C	YKL060C	YGR240C	YMR205C	YBR196C																
+PWY4FS-6	phosphatidylethanolamine biosynthesis II	EKI1	ECT1																																			YDR147W	YGR007W																																		
+PWY-5669	phosphatidylethanolamine biosynthesis I	CHO1	PSD2	PSD1																																		YER026C	YGR170W	YNL169C																																	
+PWY-4984	urea cycle	ARG3	ARG1	ARG4	CAR1	URA2	CPA1	CPA2																														YJL088W	YOL058W	YHR018C	YPL111W	YJL130C	YOR303W	YJR109C																													
+PWY-7409	phospholipid remodeling (phosphatidylethanolamine)	TGL3	ALE1	PLB2	PLB1	GDE1	TGL4																															G3O-32977	G3O-33688	YMR006C	YMR008C	G3O-34012	G3O-32052																														
+PWY-5667	CDP-diacylglycerol biosynthesis	CDS1	SLC1	SCT1	GPT2																																	YBR029C	YDL052C	G3O-4104	YKR067W																																
+PWY-5269	cardiolipin biosynthesis	PGS1	CRD1																																			YCL004W	YDL142C																																		
+PWY-7625	phosphatidylinositol biosynthesis II (eukaryotes)	PIS1																																				YPR113W																																			
+PWY3O-450	phospholipid biosynthesis (Kennedy pathway)	EPT1	CPT1	CKI1	PCT1																																	YHR123W	YNL130C	YLR133W	YGR202C																																
+ANAGLYCOLYSIS-PWY	glycolysis III (from glucose)	PFK1	PFK2	FBA1	TPI1	TDH3	TDH2	TDH1	PGK1	ENO1	ENO2	ERR1	ERR2	ERR3	CDC19	PYK2	GPM1	HXK1	HXK2	GLK1	YLR446W	EMI2	PGI1															YGR240C	YMR205C	YKL060C	YDR050C	YGR192C	YJR009C	YJL052W	YCR012W	YGR254W	YHR174W	YOR393W	YPL281C	YMR323W	YAL038W	YOR347C	YKL152C	YFR053C	YGL253W	YCL040W	G3O-32501	G3O-30035	YBR196C														
+PWY-6825	phosphatidylcholine biosynthesis V	CHO2	OPI3																																			YGR157W	YJR073C																																		
+GLNSYN-PWY	glutamine biosynthesis	GLN1																																				YPR035W																																			
+PWY-7416	phospholipid remodeling (phosphatidylcholine)	TGL4	ALE1	LRO1	TAZ1																																	G3O-32052	G3O-33688	YNR008W	G3O-34275																																
+PWY-7417	phospholipid remodeling (phosphatidate)	SLC1	LOA1	TGL5	TGL4	ALE1																																YDL052C	G3O-34274	G3O-33618	G3O-32052	G3O-33688																															
+PWY3O-6499	phosphatidate biosynthesis II (the glycerol-3-phosphate pathway)	SLC1	GPD2	GPD1	SCT1	GPT2																																YDL052C	YOL059W	YDL022W	G3O-4104	YKR067W																															
+PWY3O-1565	dolichyl glucosyl phosphate biosynthesis	YHL012W	UGP1	ALG5	PGM2	PGM1																																YHL012W	YKL035W	YPL227C	YMR105C	YKL127W																															
+PWY66-422	D-galactose degradation V (Leloir pathway)	GAL1	GAL7	GAL10	PGM2	PGM1																																YBR020W	YBR018C	YBR019C	YMR105C	YKL127W																															
+PWY-6352	3-phosphoinositide biosynthesis	PIK1	LSB6	STT4	PIS1	MSS4	VPS34	TOR1	FAB1	INP53	INP52	SAC1	FIG4																									YNL267W	G3O-343	G3O-356	YPR113W	YDR208W	YLR240W	G3O-31699	YFR019W	YOR109W	G3O-65	G3O-60	G3O-33309																								
+PWY-5941	glycogen degradation II	GDB1	GPH1	SGA1	PGM2	PGM1																																YPR184W	YPR160W	YIL099W	YMR105C	YKL127W																															
+PWY3O-259	phospholipid biosynthesis II (Kennedy pathway)	EKI1	ECT1																																			YDR147W	YGR007W																																		
+PWY-7343	UDP-glucose biosynthesis	YHL012W	UGP1	PGM2	PGM1																																	YHL012W	YKL035W	YMR105C	YKL127W																																
+PWY-7411	superpathway phosphatidate biosynthesis (yeast)	SLC1	LOA1	TGL5	TGL4	ALE1	GPT2	SCT1	AYR1	GPD2	GPD1																											YDL052C	G3O-34274	G3O-33618	G3O-32052	G3O-33688	YKR067W	G3O-4104	YIL124W	YOL059W	YDL022W																										
+PWY3O-6407	phosphatidate biosynthesis I (the dihydroxyacetone pathway)	SLC1	SCT1	GPT2																																		YDL052C	G3O-4104	YKR067W																																	
+PWY-6348	phosphate acquisition	PHO11	PHO5	PHO3	PHO12	DIA3																																YAR071W	YBR093C	YBR092C	YHR215W	G3O-29451																															
+PWY-7339	10-<i>trans</i>-heptadecenoyl-CoA degradation (MFE-dependent)	POT1	FOX2																																			YIL160C	YKR009C																																		
+PWY-7307	oleate &beta;-oxidation (reductase-dependent)	DCI1	SPS19	ECI1																																		YOR180C	YNL202W	YLR284C																																	
+PWY-7288	fatty acid &beta;-oxidation (peroxisome)	FAT1	FAA2	FAA3	FAA4	FAA1	FOX2	POT1	POX1																													YBR041W	YER015W	YIL009W	YMR246W	YOR317W	YKR009C	YIL160C	YGL205W																												
+PWY-7340	9-<i>cis</i>, 11-<i>trans</i>-octadecadienoyl-CoA degradation (isomerase-dependent)	POX1	FOX2	POT1	ECI1																																	YGL205W	YKR009C	YIL160C	YLR284C																																
+SPHINGOLIPID-SYN-PWY	sphingolipid biosynthesis	LCB2	LCB1	TSC10	SUR2	LIP1	LAG1	LAC1	KEI1	AUR1	CSG2	CSH1	SUR1	IPT1	SCS7																							YDR062W	YMR296C	YBR265W	YDR297W	YMR298W	YHL003C	YKL008C	G3O-29917	YKL004W	YBR036C	G3O-29111	YPL057C	YDR072C	YMR272C																						
+PWY-7337	10-<i>cis</i>-heptadecenoyl-CoA degradation	POT1	POX1	SPS19	ECI1	FOX2																																YIL160C	YGL205W	YNL202W	YLR284C	YKR009C																															
+PWY-5972	stearate biosynthesis I (animals and fungi)	ELO1	FOX2	ETR1	FAA3	FAA1	FAA4	FAA2	FAT1																													G3O-31627	YKR009C	G3O-29006	YIL009W	YOR317W	YMR246W	YER015W	YBR041W																												
+PWY-7291	oleate &beta;-oxidation (isomerase-dependent)	POX1	ECI1																																			YGL205W	YLR284C																																		
+PWY3O-355	stearate biosynthesis	FAS2	FAS1																																			YPL231W	YKL182W																																		
+PWY-5137	fatty acid &beta;-oxidation III (unsaturated, odd number)	ECI1																																				YLR284C																																			
+UDPNAGSYN-YEAST-PWY	UDP-N-acetylglucosamine biosynthesis	GFA1	GNA1	PCM1	QRI1																																	YKL104C	YFL017C	YEL058W	YDL103C																																
+YEAST-FAO-PWY	fatty acid oxidation (non-cyclic)	POT1	FAT1	FAA2	FAA3	FAA4	FAA1	ECI1	FOX2	POX1																												YIL160C	YBR041W	YER015W	YIL009W	YMR246W	YOR317W	YLR284C	YKR009C	YGL205W																											
+UDPNACETYLGALSYN-PWY	UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis II	GFA1	GNA1	PCM1	QRI1																																	YKL104C	YFL017C	YEL058W	YDL103C																																
+PWY-7338	10-<i>trans</i>-heptadecenoyl-CoA degradation (reductase-dependent)	POT1	POX1	SPS19	ECI1	FOX2																																YIL160C	YGL205W	YNL202W	YLR284C	YKR009C																															
+PWY-7292	oleate &beta;-oxidation (thioesterase-dependent)	ECI1	TES1																																			YLR284C	YJR019C																																		
+PWY-6837	fatty acid beta-oxidation V (unsaturated, odd number, di-isomerase-dependent)	POX1	DCI1	SPS19	ECI1																																	YGL205W	YOR180C	YNL202W	YLR284C																																
+PWY3O-1801	palmitoleate biosynthesis	OLE1																																				YGL055W																																			
+PWY-5996	oleate biosynthesis	OLE1																																				YGL055W																																			
+LIPAS-PWY	triacylglycerol degradation	ATG15	TGL2	TGL1	TGL4	TGL5	YJU3	MGL2	TGL3																													YCR068W	YDR058C	YKL140W	G3O-32052	G3O-33618	G3O-31885	G3O-32893	G3O-32977																												
+PWY-7366	phosphatidylglycerol degradation	PGC1																																				G3O-34097																																			
+LIPASYN-PWY-1	phospholipids degradation	PLC1	SPO14																																			YPL268W	YKR031C																																		
+PWY0-1507	biotin salvage	BIO4	BIO2	BIO3																																		YNR057C	YGR286C	YNR058W																																	
+PWY-7367	phosphatidylcholine resynthesis via glycerophosphocholine	EPT1	CPT1	NTE1	GDE1																																	YHR123W	YNL130C	G3O-32654	G3O-34012																																
+PWY-7119	sphingolipid recycling and degradation (yeast)	LCB4	LCB5	YSR3	LCB3	DPL1	YPC1	YDC1	ISC1																													YOR171C	YLR260W	YKR053C	YJL134W	YDR294C	YBR183W	YPL087W	YER019W																												
+METHIONINE-DEG1-PWY	methionine degradation I (to homocysteine)	SAM2	SAM1	SAH1																																		YDR502C	YLR180W	YER043C																																	
+PWY-5082	L-methionine degradation III	ARO10	ADH3	ADH1	ADH5	ADH2	SFA1	ARO9	ARO8																													YDR380W	YMR083W	YOL086C	YBR145W	YMR303C	YDL168W	YHR137W	YGL202W																												
+PWY-5994	palmitate biosynthesis	ETR1	OAR1	HTD2	FAS2	FAS1																																G3O-29006	YKL055C	G3O-31118	YPL231W	YKL182W																															
+PWY-5078	isoleucine degradation II	BAT2	BAT1	PDC6	PDC5	PDC1	ARO10	THI3	ADH1	ADH2	ADH3	ADH4	ADH5	SFA1																								YJR148W	YHR208W	YGR087C	YLR134W	YLR044C	YDR380W	YDL080C	YOL086C	YMR303C	YMR083W	YGL256W	YBR145W	YDL168W																							
+PWY-7036	very long chain fatty acid biosynthesis	ELO2	ELO3	IFA38	FOX2	PHS1	ETR1	TSC13																														YCR034W	G3O-14	G3O-25	YKR009C	G3O-33	G3O-29006	G3O-39																													
+PWY3O-4109	isoleucine degradation	BAT2	BAT1	ADH1	ADH2	ADH3	ADH4	ADH5	SFA1	PDC6	PDC5	PDC1	ARO10	THI3																								YJR148W	YHR208W	YOL086C	YMR303C	YMR083W	YGL256W	YBR145W	YDL168W	YGR087C	YLR134W	YLR044C	YDR380W	YDL080C																							
+FASYN-ELONG2-PWY	fatty acid elongation	FAS1	FAS2																																			YKL182W	YPL231W																																		
+GLYCLEAV-PWY	glycine cleavage	GCV3	GCV1	GCV2	LPD1																																	G3O-163	YDR019C	YMR189W	YFL018C																																
+PWY-7388	octanoyl-ACP biosynthesis (mitochondria)	HFA1	MCT1	OAR1	HTD2	ETR1	CEM1																															YMR207C	YOR221C	YKL055C	G3O-31118	G3O-29006	YER061C																														
+PWY-5057	valine degradation	BAT2	BAT1	PDC1	PDC5	PDC6	ADH1	ADH2	ADH3	ADH4	ADH5	SFA1																										YJR148W	YHR208W	YLR044C	YLR134W	YGR087C	YOL086C	YMR303C	YMR083W	YGL256W	YBR145W	YDL168W																									
+PWY-5966	fatty acid biosynthesis initiation	CEM1	FAS2	FAS1																																		YER061C	YPL231W	YKL182W																																	
+LCYSDEG-PWY	L-cysteine degradation II	IRC7																																				YFR055W																																			
+PWY-5970	fatty acid biosynthesis (concise)	FAS2	FAS1																																			YPL231W	YKL182W																																		
+PWY-5436	threonine degradation	GLY1																																				YEL046C																																			
+FASYN-ELONG-PWY-1	fatty acid elongation -- saturated	FAS1	FAS2																																			YKL182W	YPL231W																																		
+ARG-PRO-PWY	arginine degradation VI (arginase 2 pathway)	PRO3	CAR1	CAR2																																		YER023W	YPL111W	YLR438W																																	
+PWY-5079	phenylalanine degradation	PDC1	PDC5	PDC6	ARO10	ADH1	ADH2	ADH3	ADH4	ADH5	SFA1	ARO9																										YLR044C	YLR134W	YGR087C	YDR380W	YOL086C	YMR303C	YMR083W	YGL256W	YBR145W	YDL168W	YHR137W																									
+ANAPHENOXI-PWY	L-phenylalanine degradation II (anaerobic)	PDC1	PDC5	PDC6	ARO10	HFD1	ALD2	ALD3	ALD5	ALD4																												YLR044C	YLR134W	YGR087C	YDR380W	G3O-32806	YMR170C	YMR169C	G-10421	G-10422																											
+PWY3O-4112	leucine degradation	BAT2	BAT1	GRE2	ADH1	ADH2	ADH3	ADH4	ADH5	SFA1	THI3																											YJR148W	YHR208W	YOL151W	YOL086C	YMR303C	YMR083W	YGL256W	YBR145W	YDL168W	YDL080C																										
+PWY-6075	ergosterol biosynthesis	ERG6	ERG2	ERG3	ERG5	ERG4																																YML008C	YMR202W	YLR056W	YMR015C	YGL012W																															
+PWY-5076	leucine degradation III	BAT2	BAT1	GRE2	ADH1	ADH2	ADH3	ADH4	ADH5	SFA1	THI3																											YJR148W	YHR208W	YOL151W	YOL086C	YMR303C	YMR083W	YGL256W	YBR145W	YDL168W	YDL080C																										
+PWY-7221	guanosine ribonucleotides <i>de novo</i> biosynthesis	IMD2	IMD3	IMD4	GUA1	GUK1	YNK1																															YHR216W	YLR432W	YML056C	YMR217W	YDR454C	YKL067W																														
+GLUDEG-I-PWY-1	glutamate degradation to succinate	GAD1	UGA1	UGA2																																		YMR250W	YGR019W	YBR006W																																	
+PWY-6132	lanosterol biosynthesis	ERG7																																				YHR072W																																			
+GLUTAMATE-DEG1-PWY	glutamate degradation to 2-oxoglutarate	GDH2																																				YDL215C																																			
+CITRULBIO-PWY	citrulline biosynthesis	URA2	CPA1	CPA2	ASN2	ASN1	GUA1	SNO1	SNZ1	URA7	URA8	HIS7	CAR1	ARG3	PRO1	PRO2	PUT1	CAR2																				YJL130C	YOR303W	YJR109C	YGR124W	YPR145W	YMR217W	G3O-32795	G3O-32796	YBL039C	YJR103W	YBR248C	YPL111W	YJL088W	YDR300C	YOR323C	YLR142W	YLR438W																			
+PWY-5081	tryptophan degradation VIII (to tryptophol)	ARO8	PDC1	PDC5	PDC6	ARO10	ADH1	ADH2	ADH3	ADH4	ADH5	SFA1	ARO9																									YGL202W	YLR044C	YLR134W	YGR087C	YDR380W	YOL086C	YMR303C	YMR083W	YGL256W	YBR145W	YDL168W	YHR137W																								
+PROUT-PWY	proline degradation	PUT1	PUT2																																			YLR142W	YHR037W																																		
+PWY-5651	tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde	BNA7	BNA3	BNA4	BNA5	BNA1	BNA2																															YDR428C	YJL060W	YBL098W	YLR231C	YJR025C	YJR078W																														
+ASPARAGINE-DEG1-PWY	asparagine degradation	ASP1	ASP3-1	ASP3-2	ASP3-3	ASP3-4																																YDR321W	YLR155C	YLR157C	YLR158C	YLR160C																															
+GLUTAMINDEG-PWY	glutamine degradation I	URA2	CPA1	CPA2	ASN2	ASN1	GUA1	SNO1	SNZ1	URA7	URA8	HIS7																										YJL130C	YOR303W	YJR109C	YGR124W	YPR145W	YMR217W	G3O-32795	G3O-32796	YBL039C	YJR103W	YBR248C																									
+PWY3O-48	glycerol biosynthesis	GPD2	GPD1	GPP2	GPP1																																	YOL059W	YDL022W	YER062C	YIL053W																																
+PWY3O-4108	tyrosine degradation	PDC1	PDC5	PDC6	ADH1	ADH2	ADH3	ADH4	ADH5	ARO9	ARO8																											YLR044C	YLR134W	YGR087C	YOL086C	YMR303C	YMR083W	YGL256W	YBR145W	YHR137W	YGL202W																										
+PWY-6129	dolichol and dolichyl phosphate biosynthesis	RER2	NUS1	SRT1	DFG10	SEC59																																YBR002C	G3O-29578	YMR101C	G3O-31320	YMR013C																															
+MALATE-ASPARTATE-SHUTTLE-PWY	aspartate degradation II	AAT1	AAT2	MDH2	MDH1	MDH3																																YKL106W	YLR027C	YOL126C	YKL085W	YDL078C																															
+TRIGLSYN-PWY	triacylglycerol biosynthesis	PAH1	LPP1	DPP1	DGA1	SCT1	GPT2	SLC1	LRO1	TAZ1	DGK1																											G3O-4124	YDR503C	YDR284C	YOR245C	G3O-4104	YKR067W	YDL052C	YNR008W	G3O-34275	G3O-33794																										
+SERDEG-PWY	L-serine degradation	CHA1																																				YCL064C																																			
+PWY-7420	monoacylglycerol metabolism	MGL2	YJU3	DGA1																																		G3O-32893	G3O-31885	YOR245C																																	
+ALANINE-DEG3-PWY	alanine degradation III	ALT1	ALT2																																			YLR089C	YDR111C																																		
+PWY-5148	acyl-CoA hydrolysis	ATF1																																				YOR377W																																			
+PWY0-1264	biotin-carboxyl carrier protein assembly	BPL1	ACC1	HFA1																																		YDL141W	YNR016C	YMR207C																																	
+PWY-801	homocysteine and cysteine interconversion	CYS4	CYS3	YML082W	STR2	STR3																																YGR155W	YAL012W	YML082W	YJR130C	YGL184C																															
+PWY-7176	UTP and CTP <i>de novo</i> biosynthesis	URA6	YNK1	URA7	URA8																																	YKL024C	YKL067W	YBL039C	YJR103W																																
+PWY-6842-1	glutathione-mediated detoxification II	GTT1	GTT2	URE2	GTT3	GTO1	ECM4	CPC	PRC1	ECM38	STR3	IRC7	YBT1	YCF1																								YIR038C	YLL060C	YNL229C	G3O-30142	G3O-30856	G3O-32040	G3O-29093	YMR297W	YLR299W	YGL184C	YFR055W	G3O-32147	G3O-29733																							
+HOMOSER-THRESYN-PWY	threonine biosynthesis from homoserine	THR1	THR4																																			YHR025W	YCR053W																																		
+PWY-5041	<i>S</i>-adenosyl-L-methionine cycle II	SAM2	SAM1	SAH1	MET6																																	YDR502C	YLR180W	YER043C	YER091C																																
+ILEUSYN-PWY	isoleucine biosynthesis	ILV3	BAT2	BAT1	ILV5	ILV2	ILV6	ILV1	CHA1																													YJR016C	YJR148W	YHR208W	YLR355C	YMR108W	YCL009C	YER086W	YCL064C																												
+PWY-7269	NAD/NADP-NADH/NADPH mitochondrial interconversion (yeast)	ALD3	ALD2	HFD1	POS5	YEF1	UTR1	ALD6	ALD4	ALD5																												YMR169C	YMR170C	G3O-32806	G3O-34081	G3O-30162	G3O-31684	G-10420	G-10422	G-10421																											
+ASPBIO-PWY	aspartate biosynthesis	PYC2	PYC1	AAT1	AAT2																																	YBR218C	YGL062W	YKL106W	YLR027C																																
+TRPSYN-PWY	tryptophan biosynthesis	TRP1	TRP4	TRP2	TRP3	TRP5																																YDR007W	YDR354W	YER090W	YKL211C	YGL026C																															
+ALANINE-SYN2-PWY	alanine biosynthesis	ALT1	ALT2																																			YLR089C	YDR111C																																		
+PWY0-1021	L-alanine biosynthesis III	NFS1																																				G3O-29283																																			
+SERSYN-PWY	serine biosynthesis from 3-phosphoglycerate	SER1	SER3	SER33	SER2																																	YOR184W	YER081W	YIL074C	YGR208W																																
+PWY0-1535	D-serine degradation	DSD1																																				G3O-30677																																			
+PWY3O-230	serine biosynthesis from glyoxylate	SHM1	SHM2																																			YBR263W	YLR058C																																		
+PHESYN	L-phenylalanine biosynthesis	PHA2	ARO7																																			YNL316C	YPR060C																																		
+LEUSYN-PWY	leucine biosynthesis	LEU2	BAT2	BAT1	LEU4	LEU9	LEU1																															YCL018W	YJR148W	YHR208W	YNL104C	YOR108W	YGL009C																														
+GLYSYN-ALA-PWY	glycine biosynthesis from glyoxylate	AGX1																																				YFL030W																																			
+GLYSYN-PWY	glycine biosynthesis from serine	SHM1	SHM2																																			YBR263W	YLR058C																																		
+HISTSYN-PWY	histidine biosynthesis	HIS2	HIS5	HIS3	HIS7	HIS6	HIS4	HIS1																														YFR025C	YIL116W	YOR202W	YBR248C	YIL020C	YCL030C	YER055C																													
+GLYSYN-THR-PWY	glycine biosynthesis from threonine	GLY1																																				YEL046C																																			
+PWY3O-4120	tyrosine biosynthesis	ARO7	TYR1	ARO9	ARO8																																	YPR060C	YBR166C	YHR137W	YGL202W																																
+PWY-7269-YEAST	NAD/NADP-NADH/NADPH mitochondrial interconversion	HFD1	POS5	NDE1	NDI1	NDE2	ALD4	ALD5																														G3O-32806	G3O-34081	G3O-32837	YML120C	G3O-29494	G-10422	G-10421																													
+PROSYN-PWY	proline biosynthesis	PRO3	PRO2	PRO1																																		YER023W	YOR323C	YDR300C																																	
+PWY-5690	TCA cycle II (plants and fungi)	FUM1	LSC1	LSC2	LPD1	KGD1	KGD2	CIT2	CIT1	CIT3	ACO2	ACO1	IDH1	IDH2	MDH2	MDH1	MDH3																					YPL262W	YOR142W	YGR244C	YFL018C	YIL125W	YDR148C	YCR005C	YNR001C	YPR001W	YJL200C	YLR304C	YNL037C	YOR136W	YOL126C	YKL085W	YDL078C																				
+LYSINE-AMINOAD-PWY	L-lysine biosynthesis IV	LYS1	LYS20	LYS21	LYS9	ARO8	LYS4	LYS12	LYS2																													YIR034C	YDL182W	YDL131W	YNR050C	YGL202W	YDR234W	YIL094C	YBR115C																												
+GLUGLNSYN-PWY	glutamate biosynthesis from glutamine	GLT1																																				YDL171C																																			
+GLUTSYNIII-PWY	glutamate biosynthesis from ammonia	GDH3	GDH1																																			YAL062W	YOR375C																																		
+VALSYN-PWY	valine biosynthesis	ILV3	BAT2	BAT1	ILV5	ILV2	ILV6																															YJR016C	YJR148W	YHR208W	YLR355C	YMR108W	YCL009C																														
+PWY-5760	&beta;-alanine biosynthesis	ALD3	ALD2	FMS1																																		YMR169C	YMR170C	YMR020W																																	
+HOMOSERSYN-PWY	homoserine biosynthesis	HOM3	HOM2	HOM6																																		YER052C	YDR158W	YJR139C																																	
+PWY-5344	L-homocysteine biosynthesis	MET17	MET2																																			YLR303W	YNL277W																																		
+PWY-5905	hypusine biosynthesis	LIA1	DYS1																																			G3O-31703	YHR068W																																		
+PWY-7546	diphthamide biosynthesis	DPH6	KTI11	DPH2	DPH1	DPH7	DPH5																															G-15503	G-11956	G-11955	G-11954	G-34532	G-11958																														
+PWY-46	putrescine biosynthesis	SPE1																																				YKL184W																																			
+BSUBPOLYAMSYN-PWY	spermidine and methylthioadenosine biosynthesis	SPE3	SPE2																																			YPR069C	YOL052C																																		
+PWY-3561	choline biosynthesis	PCT1	SPO14	EPT1	CPT1																																	YGR202C	YKR031C	YHR123W	YNL130C																																
+ARGSPECAT-PWY	spermine and methylthioadenosine biosynthesis	SPE4	SPE2																																			YLR146C	YOL052C																																		
+PWY-4261-YEAST	glycerol degradation I	GUT1	GUT2																																			YHL032C	YIL155C																																		
+PWY-6118-YEAST	glycerol-3-phosphate shuttle	GPD2	GPD1	GUT2																																		YOL059W	YDL022W	YIL155C																																	
+PWY-6952-1	glycerophosphodiester degradation	PGC1	GDE1	GUT2																																		G3O-34097	G3O-34012	YIL155C																																	
+PWY-5123	<i>trans, trans</i>-farnesyl diphosphate biosynthesis	ERG20	IDI1																																			YJL167W	YPL117C																																		
+PWY-5120	geranylgeranyldiphosphate biosynthesis	BTS1																																				YPL069C																																			
+HEXPPSYN-PWY-1	hexaprenyl diphosphate biosynthesis	ERG20	COQ1	IDI1																																		YJL167W	YBR003W	YPL117C																																	
+PWY-7177	UTP and CTP dephosphorylation II	URA7	URA8	YND1																																		YBL039C	YJR103W	G3O-30192																																	
+PWY-5122	geranyl diphosphate biosynthesis	ERG20																																				YJL167W																																			
+PWY-7382	lipoate biosynthesis and incorporation (pyruvate dehydrogenase and oxoglutarate dehydrogenase)	AIM22	LIP2	LIP5																																		G3O-31510	YLR239C	YOR196C																																	
+PWY0-501	lipoate biosynthesis and incorporation I	LIP5	LIP2	ISU1																																		YOR196C	YLR239C	G3O-34034																																	
+PWY-7381	lipoate biosynthesis and incorporation (glycine cleavage system)	LIP5	LIP2																																			YOR196C	YLR239C																																		
+HEME-BIOSYNTHESIS-II	heme biosynthesis	HEM12	HEM14	HEM15	HEM13																																	YDR047W	YER014W	YOR176W	YDR044W																																
+PWY-7856	heme <i>a</i> biosynthesis	COX10	COX15																																			G3O-34067	G3O-30302																																		
+PWY-5194	siroheme biosynthesis	MET8	MET1																																			G3O-29150	G3O-32035																																		
+PWY-7279-YEAST	aerobic respiration (cytochrome c)	COX13	COX12	COX9	COX8	COX7	COX6	COX5A	COX4	COX3	COX2	COX1	COX5B	COX20	COX18	COX23	COX16	COX19	COX11	NDE1	NDI1	NDE2	SDH1	SDH4	SDH3	SDH2	YJL045W	QCR10	QCR9	QCR8	QCR7	QCR6	QCR2	COR1	CYT1	RIP1	COB	YGL191W	YLR038C	YDL067C	YLR395C	YMR256C	YHR051W	YNL052W	YGL187C	Q0275	Q0250	Q0045	YIL111W	G3O-29809	G3O-30777	G3O-31158	G3O-31482	G3O-32559	G3O-34031	G3O-32837	YML120C	G3O-29494	YKL148C	YDR178W	YKL141W	YLL041C	YJL045W	G3O-31243	YGR183C	YJL166W	YDR529C	YFR033C	YPR191W	YBL045C	G3O-102	YEL024W	Q0105
+PWY0-1313	acetate conversion to acetyl-CoA	ACS1	ACS2																																			YAL054C	YLR153C																																		
+PWY3O-188	aerobic respiration (linear view)	COX13	COX12	COX9	COX8	COX7	COX6	COX5A	COX4	COX3	COX2	COX1	COX5B	COX20	COX18	COX23	COX16	COX19	COX11	SDH1	SDH4	SDH3	SDH2	YJL045W	NDE1	NDI1	NDE2	QCR10	QCR9	QCR8	QCR7	QCR6	QCR2	COR1	CYT1	RIP1	COB	YGL191W	YLR038C	YDL067C	YLR395C	YMR256C	YHR051W	YNL052W	YGL187C	Q0275	Q0250	Q0045	YIL111W	G3O-29809	G3O-30777	G3O-31158	G3O-31482	G3O-32559	G3O-34031	YKL148C	YDR178W	YKL141W	YLL041C	YJL045W	G3O-32837	YML120C	G3O-29494	G3O-31243	YGR183C	YJL166W	YDR529C	YFR033C	YPR191W	YBL045C	G3O-102	YEL024W	Q0105
+GLUCONSUPER-PWY	D-gluconate degradation	YDR248C																																				G3O-29821																																			
+PWY-5189	tetrapyrrole biosynthesis II	HEM1	HEM2	HEM3	HEM4																																	YDR232W	YGL040C	YDL205C	YOR278W																																
+PWY3O-19	ubiquinol-6 biosynthesis from 4-hydroxybenzoate (eukaryotic)	COQ6	COQ5	COQ7	COQ3	COQ2																																YGR255C	YML110C	YOR125C	YOL096C	YNR041C																															
+PWY-7230	ubiquinol-6 biosynthesis from 4-aminobenzoate	COQ2	COQ6	COQ5	COQ7	COQ3	ARH1																															YNR041C	YGR255C	YML110C	YOR125C	YOL096C	YDR376W																														
+PWY-7233	ubiquinol-6 bypass biosynthesis	COQ5	COQ7	COQ3	COQ2																																	YML110C	YOR125C	YOL096C	YNR041C																																
+LARABITOLUTIL-PWY	xylitol degradation	XYL2	XKS1																																			YLR070C	YGR194C																																		
+PWY-4101	sorbitol degradation	SOR1	SOR2	HXK1	HXK2																																	YJR159W	G3O-29621	YFR053C	YGL253W																																
+PWY3O-4106	nicotinamide riboside salvage pathway I	NMA1	NMA2	NRK1																																		YLR328W	YGR010W	G3O-4113																																	
+PWY3O-4107	NAD salvage pathway	NMA2	NMA1	NPT1	AMD2	PNC1	QNS1	SIR2	HST1	HST2	HST3	HST4																										YGR010W	YLR328W	YOR209C	YDR242W	YGL037C	YHR074W	YDL042C	G3O-33473	G3O-33934	G3O-33572	G3O-29779																									
+PWY-5653	NAD biosynthesis from 2-amino-3-carboxymuconate semialdehyde	NMA2	NMA1	QNS1	BNA6																																	YGR010W	YLR328W	YHR074W	YFR047C																																
+PWY3O-96	nicotinamide riboside salvage pathway II	URH1																																				YDR400W																																			
+PWY3O-224	nicotinate riboside salvage pathway I	NRK1																																				G3O-4113																																			
+COA-PWY	coenzyme A biosynthesis	CAB4	CAB5	CAB3	VHS3	SIS2	CAB2																															YGR277C	YDR196C	YKL088W	YOR054C	YKR072C	YIL083C																														
+PWY-6147	6-hydroxymethyl-dihydropterin diphosphate biosynthesis I	FOL1	FOL2																																			YNL256W	YGR267C																																		
+PWY-6613	tetrahydrofolate salvage from 5,10-methenyltetrahydrofolate	MIS1	ADE8																																			YBR084W	YDR408C																																		
+PWY-2161	folate polyglutamylation	ADE3	MIS1	SHM1	SHM2	MET7	RMA1																															YGR204W	YBR084W	YBR263W	YLR058C	YOR241W	YKL132C																														
+PWY-6614	tetrahydrofolate biosynthesis	FOL1	FOL3	DFR1																																		YNL256W	YMR113W	YOR236W																																	
+PWY-6074	zymosterol biosynthesis	ERG11	ERG24	ERG25	ERG26	ERG27																																YHR007C	YNL280C	YGR060W	YGL001C	YLR100W																															
+PWY-6543	4-aminobenzoate biosynthesis	ABZ1	ABZ2																																			YNR033W	G3O-84																																		
+PLPSAL-PWY	pyridoxal 5'-phosphate salvage pathway	YLR456W	YPR172W	PDX3	BUD16																																	G3O-32509	G3O-34299	YBR035C	G3O-10																																
+PANTO-PWY	phosphopantothenate biosynthesis	PAN6	PAN5	ECM31	CAB1																																	YIL145C	YHR063C	YBR176W	YDR531W																																
+PYRUVDEHYD-PWY	pyruvate dehydrogenase complex	LPD1	LAT1	PDB1	PDA1																																	YFL018C	YNL071W	YBR221C	YER178W																																
+PWY3O-697	folate interconversions	SHM1	SHM2	DFR1	ADE3	MIS1	MTD1	MET13	MET12	GCV3	GCV1	GCV2	LPD1	CDC21																								YBR263W	YLR058C	YOR236W	YGR204W	YBR084W	YKR080W	YGL125W	YPL023C	G3O-163	YDR019C	YMR189W	YFL018C	YOR074C																							
+PWY-2201	folate transformations	SHM1	SHM2	MIS1	ADE3	GCV3	GCV1	GCV2	LPD1	MET13	MET12	MTD1	FAU1																									YBR263W	YLR058C	YBR084W	YGR204W	G3O-163	YDR019C	YMR189W	YFL018C	YGL125W	YPL023C	YKR080W	YER183C																								
+PWY-6908	thiamin diphosphate biosynthesis IV (eukaryotes)	THI6	PHO3	PHO5	PHO11	PHO12	DIA3	THI80																														YPL214C	YBR092C	YBR093C	YAR071W	YHR215W	G3O-29451	YOR143C																													
+PWY-6910	hydroxymethylpyrimidine salvage	THI20	THI21																																			G3O-33466	G3O-34143																																		
+PWY-7353	4-methyl-5(&beta;-hydroxyethyl)thiazole salvage	THI6																																				YPL214C																																			
+PWY-6898	thiamin salvage III	THI80																																				YOR143C																																			
+PWY-7118	chitin degradation to ethanol	CDA2	CDA1	PDC1	PDC5	PDC6	ADH2	ADH1	ADH3	ADH5	MLS1	ACS1	ACS2	MAE1																								YLR308W	YLR307W	YLR044C	YLR134W	YGR087C	YMR303C	YOL086C	YMR083W	YBR145W	YNL117W	YAL054C	YLR153C	YKL029C																							
+PWY-7356	thiamin salvage IV	THI6	PHO3	PHO5	PHO11	PHO12	DIA3	THI80	THI20	THI21																												YPL214C	YBR092C	YBR093C	YAR071W	YHR215W	G3O-29451	YOR143C	G3O-33466	G3O-34143																											
+GLUCONEO-YEAST-PWY	gluconeogenesis	FBP1	FBA1	TDH3	TDH2	TDH1	PGK1	DET1	GPM2	YOR283W	GPM3	ENO1	ENO2	ERR1	ERR2	ERR3	PCK1	MDH2	PYC2	PYC1	MAE1	PGI1																YLR377C	YKL060C	YGR192C	YJR009C	YJL052W	YCR012W	G3O-29661	G3O-29450	G3O-33769	G3O-33467	YGR254W	YHR174W	YOR393W	YPL281C	YMR323W	YKR097W	YOL126C	YBR218C	YGL062W	YKL029C	YBR196C															
+PWY-6899	base-degraded thiamin salvage	THI20																																				G3O-33466																																			
+PWY-7686	L-malate degradation II	MAE1																																				YKL029C																																			
+PWY-6909	thiazole biosynthesis III (eukaryotes)	THI4																																				G3O-154																																			
+PWY-7282	4-amino-2-methyl-5-phosphomethylpyrimidine biosynthesis	ADE4	YLR456W	YPR172W	PDX3	THI11	THI12	THI13	THI20	THI21	YPR127W	BUD16	THI5																									YMR300C	G3O-32509	G3O-34299	YBR035C	G3O-3866	G3O-3869	G3O-3904	G3O-33466	G3O-34143	G3O-34264	G3O-10	G3O-30409																								
+PWY-7357	thiamin formation from pyrithiamine and oxythiamine	THI6	THI20	THI21																																		YPL214C	G3O-33466	G3O-34143																																	
+PWY-7369	thiamin triphosphate metabolism																																																																						
+PWY-6168	flavin biosynthesis III (fungi)	FMN1	FAD1	RIB5	RIB4	RIB3	RIB1	RIB7	RIB2																													YDR236C	YDL045C	YBR256C	YOL143C	YDR487C	YBL033C	YBR153W	YOL066C																												
+PWY3O-6	dehydro-D-arabinono-1,4-lactone biosynthesis	ALO1	ARA2	ARA1																																		YML086C	G3O-31	YBR149W																																	
+GLUTATHIONESYN-PWY	glutathione biosynthesis	GSH1	GSH2																																			YJL101C	YOL049W																																		
+PWY3O-592	glutathione-glutaredoxin system	GLR1	GRX3	GRX2	GRX4	GRX5	GRX1																															YPL091W	G3O-29701	YDR513W	G3O-1601	G3O-1606	YCL035C																														
+THIOREDOX-PWY	thioredoxin system	TRR1	TRR2	TRX3	TRX1	TRX2																																YDR353W	YHR106W	G3O-35	G3O-7	G3O-19																															
+PWY-4081	glutathione redox reactions I	GPX2	GPX1	GLR1																																		YBR244W	YKL026C	YPL091W																																	
+GLUT-REDOX-PWY	glutathione-glutaredoxin redox reactions	GRX4	GRX5	GRX3	GRX2	GRX1																																G3O-1601	G3O-1606	G3O-29701	YDR513W	YCL035C																															
+PWY-7559	glutathione degradation (DUG pathway)	DUG3	DUG2	ECM38	DUG1																																	G3O-33202	G3O-29201	YLR299W	G3O-2																																
+SAM-PWY	S-adenosyl-L-methionine biosynthesis	SAM2	SAM1																																			YDR502C	YLR180W																																		
+PWYQT-4432	glutathione degradation	DUG1																																				G3O-2																																			
+PWY-7250	iron-sulfur cluster biosynthesis	ISU2	ISU1	NFS1	YFH1	JAC1	SSQ1																															G3O-33724	G3O-34034	G3O-29283	G3O-29519	G3O-30538	G3O-32438																														
+PERIPLASMA-NAD-DEGRADATION	periplasmic NAD degradation	NPY1																																				YGL067W																																			
+PWY3O-50	tetrapyrrole biosynthesis	HEM1	HEM2	HEM3	HEM4																																	YDR232W	YGL040C	YDL205C	YOR278W																																
+PWY-1801-YEAST	formaldehyde oxidation II (glutathione-dependent)	YJL068C	SFA1	FDH1																																		YJL068C	YDL168W	YOR388C																																	
+PWY-1722	formate assimilation into 5,10-methylenetetrahydrofolate	MIS1	ADE3																																			YBR084W	YGR204W																																		
+PWY-1881	formate oxidation to CO<sub>2</sub>	FDH1																																				YOR388C																																			
+PWY3O-246	(R,R)-butanediol degradation	BDH1																																				YAL060W																																			
+PWY-6388	(S,S)-butanediol degradation																																																																						
+PWY66-21	ethanol degradation II	ADH2	HFD1	ALD5	ALD4	ACS1	ACS2																															YMR303C	G3O-32806	G-10421	G-10422	YAL054C	YLR153C																														
+PWY-6756	<i>S</i>-methyl-5'-thioadenosine degradation	MEU1																																				G3O-114																																			
+PWY0-1296	purine ribonucleosides degradation to ribose-1-phosphate	PNP1																																				YLR209C																																			
+PWY-7195	pyrimidine ribonucleosides salvage III	URH1	FCY1																																			YDR400W	YPR062W																																		
+PWY-6556	pyrimidine ribonucleosides degradation II	CDD1	URH1																																			YLR245C	YDR400W																																		
+PWY-922	mevalonate pathway	ERG10	ERG13	HMG1	HMG2	ERG12	ERG8	MVD1	IDI1																													YPL028W	YML126C	YML075C	YLR450W	YMR208W	YMR220W	YNR043W	YPL117C																												
+PWY3O-242	phosphatidylinositol phosphate biosynthesis	FAB1	VPS34	TOR1	MSS4	PIK1	LSB6	STT4	INP54	INP51	INP53	INP52	SAC1	FIG4	PIS1																							YFR019W	YLR240W	G3O-31699	YDR208W	YNL267W	G3O-343	G3O-356	YOL065C	YIL002C	YOR109W	G3O-65	G3O-60	G3O-33309	YPR113W																						
+PWY3O-402	inositol phosphate biosynthesis	PLC1	IPK1	ARG82	VIP1	KCS1																																YPL268W	YDR315C	G3O-24	G3O-37	G3O-32																															
+PWY-621	sucrose degradation III	SUC2	HXK1	HXK2	GLK1	YLR446W	EMI2	PGI1																														YIL162W	YFR053C	YGL253W	YCL040W	G3O-32501	G3O-30035	YBR196C																													
+PWY-6361	1D-<i>myo</i>-inositol hexakisphosphate biosynthesis I  (from Ins(1,4,5)P3)	IPK1	ARG82																																			YDR315C	G3O-24																																		
+GLYOXYLATE-BYPASS	glyoxylate cycle	MDH2	MDH3	DAL7	MLS1	ICL1	CIT2	ACO2	ACO1																													YOL126C	YDL078C	YIR031C	YNL117W	YER065C	YCR005C	YJL200C	YLR304C																												
+PWY-6369	inositol pyrophosphates biosynthesis	IPK1	KCS1																																			YDR315C	G3O-32																																		
+PWY-2301	<i>myo</i>-inositol biosynthesis	INO1	INM1	INM2	INM2																																	YJL153C	YHR046C	G3O-29851	G3O-4																																
+PWY-6351	D-<i>myo</i>-inositol (1,4,5)-trisphosphate biosynthesis	MSS4	PIK1	LSB6	STT4	PIS1	PLC1																															YDR208W	YNL267W	G3O-343	G3O-356	YPR113W	YPL268W																														
+PWY-6364	D-<i>myo</i>-inositol (1,3,4)-trisphosphate biosynthesis	ARG82	INP52	INP54	INP53																																	G3O-24	G3O-65	YOL065C	YOR109W																																
+PWY0-1182	trehalose degradation II (cytosolic)	NTH2	NTH1	HXK1	HXK2	GLK1	YLR446W	EMI2																														YBR001C	YDR001C	YFR053C	YGL253W	YCL040W	G3O-32501	G3O-30035																													
+PWY0-1466	trehalose degradation VI (periplasmic)	ATH1																																				YPR026W																																			
+PWY-5516	xylose degradation II	ADH6	GRE3																																			YMR318C	YHR104W																																		
+MANNCAT-PWY	D-mannose degradation	PMI40																																				YER003C																																			
+PWY3O-0	fructose degradation	HXK1	HXK2																																			YFR053C	YGL253W																																		
+PWY-6121	5-aminoimidazole ribonucleotide biosynthesis I	ADE4	ADE8	ADE6	ADE5,7																																	YMR300C	YDR408C	YGR061C	YGL234W																																
+PWY3O-1743	mannose degradation	PMI40	HXK2	HXK1																																		YER003C	YGL253W	YFR053C																																	
+PWY-6124	inosine-5'-phosphate biosynthesis II	ADE2	ADE1	ADE13	ADE17	ADE16																																YOR128C	YAR015W	YLR359W	YMR120C	YLR028C																															
+PWY-7219	adenosine ribonucleotides <i>de novo</i> biosynthesis	ADE12	ADE13	ADK1	ADK2																																	YNL220W	YLR359W	YDR226W	YER170W																																
+PWY-6610	adenine and adenosine salvage IV	XPT1	HPT1	AAH1	APT2	APT1																																YJR133W	YDR399W	YNL141W	YDR441C	YML022W																															
+PWY-6619	adenine and adenosine salvage VI	ADO1																																				YJR105W																																			
+PWY-6620	guanine and guanosine salvage I	XPT1	HPT1	PNP1																																		YJR133W	YDR399W	YLR209C																																	
+PWY3O-2220	salvage pathways of adenine, hypoxanthine and their nucleosides	APT2	APT1	AAH1	AMD1	PNP1	XPT1	HPT1	ADO1																													YDR441C	YML022W	YNL141W	YML035C	YLR209C	YJR133W	YDR399W	YJR105W																												
+PWY3O-743	salvage pathways of guanine, xanthine and their nucleosides	GUD1	HPT1	XPT1																																		G3O-0	YDR399W	YJR133W																																	
+SALVPURINE2-PWY	xanthine and xanthosine salvage	XPT1	PNP1																																			YJR133W	YLR209C																																		
+PWY-7205	CMP phosphorylation	URA6	YNK1																																			YKL024C	YKL067W																																		
+PWY-7193	pyrimidine ribonucleosides salvage I	CDD1	DAS2	URK1																																		YLR245C	G3O-29637	YNR012W																																	
+PWY0-163	salvage pathways of pyrimidine ribonucleotides	FUR1	YNK1	CDD1	FCY1	DAS2	URA6	URH1																														YHR128W	YKL067W	YLR245C	YPR062W	G3O-29637	YKL024C	YDR400W																													
+PWY-7183	pyrimidine nucleobases salvage I	FUR1																																				YHR128W																																			
+PWY-7227	adenosine deoxyribonucleotides <i>de novo</i> biosynthesis I	RNR2	RNR4	RNR1	YNK1	TRX3	TRX1	TRX2																														YJL026W	YGR180C	YER070W	YKL067W	G3O-35	G3O-7	G3O-19																													
+PWY-7226	guanosine deoxyribonucleotides <i>de novo</i> biosynthesis I	RNR2	RNR4	RNR1	YNK1	TRX3	TRX1	TRX2																														YJL026W	YGR180C	YER070W	YKL067W	G3O-35	G3O-7	G3O-19																													
+PWY-5143	fatty acid activation	FAA2	FAA4	FAA1	FAA3																																	YER015W	YMR246W	YOR317W	YIL009W																																
+PWY-5340	sulfate activation for sulfonation	MET3	MET14																																			YJR010W	YKL001C																																		
+PWY-6012-1	acyl carrier protein activation	PPT2																																				G3O-34045																																			
+PWY0-166	pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis	NPP2	NPP1	DUT1	CDC21	CDC8	YNK1	RNR2	RNR4	RNR1	TRX3	TRX1	TRX2																									G3O-30141	G3O-29341	YBR252W	YOR074C	YJR057W	YKL067W	YJL026W	YGR180C	YER070W	G3O-35	G3O-7	G3O-19																								
+PENTOSE-P-PWY	pentose phosphate pathway	TAL1	NQM1	TKL2	TKL1	RPE1	RKI1	SOL3	SOL4	SOL2	SOL1	ZWF1	GND1																									YLR354C	YGR043C	YBR117C	YPR074C	YJL121C	YOR095C	YHR163W	YGR248W	G3O-29399	G3O-33344	YNL241C	YHR183W																								
+PWY66-385	dTMP <i>de novo</i> biosynthesis (mitochondrial)	DFR1	SHM1	SHM2	CDC21																																	YOR236W	YBR263W	YLR058C	YOR074C																																
+PWY-7386	superpathway of lipoate biosynthesis and incorporation (PDH, KGDH, GCV)	AIM22	LIP5	LIP2																																		G3O-31510	YOR196C	YLR239C																																	
+GLYCINE-SYN2-PWY	glycine biosynthesis II	GCV3	GCV1	GCV2	LPD1																																	G3O-163	YDR019C	YMR189W	YFL018C																																
+PWY-7235	superpathway of ubiquinol-6 biosynthesis	COQ5	COQ7	ARH1	COQ2	COQ6	COQ3																															YML110C	YOR125C	YDR376W	YNR041C	YGR255C	YOL096C																														
+COMPLETE-ARO-YEAST-PWY	superpathway of phenylalanine, tyrosine and tryptophan biosynthesis	ARO2	ARO1	ARO4	ARO3	TRP1	TRP4	TRP2	TRP3	TRP5	ARO7	TYR1	ARO9	ARO8																								YGL148W	YDR127W	YBR249C	YDR035W	YDR007W	YDR354W	YER090W	YKL211C	YGL026C	YPR060C	YBR166C	YHR137W	YGL202W																							
+THISYNARA-PWY-1	superpathway of thiamin diphosphate biosynthesis III (eukaryotes)	THI6	PHO3	PHO5	PHO11	PHO12	DIA3	THI80	THI4	PRS4	PRS2	PRS3	PRS1	PRS5	ADE4	YLR456W	YPR172W	PDX3	THI11	THI12	THI13	THI20	THI21	YPR127W	BUD16	THI5												YPL214C	YBR092C	YBR093C	YAR071W	YHR215W	G3O-29451	YOR143C	G3O-154	YBL068W	YER099C	YHL011C	YKL181W	YOL061W	YMR300C	G3O-32509	G3O-34299	YBR035C	G3O-3866	G3O-3869	G3O-3904	G3O-33466	G3O-34143	G3O-34264	G3O-10	G3O-30409											
+PWY-6612	superpathway of tetrahydrofolate biosynthesis	FOL3	DFR1	FOL1	FOL2	ABZ1	ABZ2																															YMR113W	YOR236W	YNL256W	YGR267C	YNR033W	G3O-84																														
+ALL-CHORISMATE-YEAST-PWY	superpathway of chorismate metabolism	COQ6	COQ5	COQ7	COQ3	COQ2	ARO2	ARO1	ARO4	ARO3																												YGR255C	YML110C	YOR125C	YOL096C	YNR041C	YGL148W	YDR127W	YBR249C	YDR035W																											
+PWY4FS-8	phosphatidylglycerol biosynthesis	CDS1	SLC1	SCT1	GPT2	PGS1																																YBR029C	YDL052C	G3O-4104	YKR067W	YCL004W																															
+PWY-5920	superpathway of heme biosynthesis	HEM1	HEM2	HEM3	HEM4	HEM12	HEM14	HEM15	HEM13																													YDR232W	YGL040C	YDL205C	YOR278W	YDR047W	YER014W	YOR176W	YDR044W																												
+PWY3O-1	superpathway of purine nucleosides salvage	GUD1	APT2	APT1	AAH1	AMD1	PNP1	XPT1	HPT1	ADO1																												G3O-0	YDR441C	YML022W	YNL141W	YML035C	YLR209C	YJR133W	YDR399W	YJR105W																											
+PWY-4041	&gamma;-glutamyl cycle	GSH1	GSH2	DUG1	OXP1																																	YJL101C	YOL049W	G3O-2	G3O-31973																																
+PWY-821	superpathway of sulfur amino acid biosynthesis (<i>Saccharomyces cerevisiae</i>)	MET10	MET5	MET16	MET3	MET14	MET17	MET2	CYS4	CYS3	YML082W	STR2	STR3	TRX3	TRX1	TRX2																						YFR030W	YJR137C	YPR167C	YJR010W	YKL001C	YLR303W	YNL277W	YGR155W	YAL012W	YML082W	YJR130C	YGL184C	G3O-35	G3O-7	G3O-19																					
+HSERMETANA-PWY-1	L-methionine biosynthesis	MET6	MET17	MET2																																		YER091C	YLR303W	YNL277W																																	
+PWY-7245	superpathway NAD/NADP - NADH/NADPH interconversion	IDP2	IDP3	IDP1	ZWF1	ALD3	ALD2	HFD1	POS5	YEF1	UTR1	ALD6	ALD4	ALD5																								YLR174W	YNL009W	YDL066W	YNL241C	YMR169C	YMR170C	G3O-32806	G3O-34081	G3O-30162	G3O-31684	G-10420	G-10422	G-10421																							
+ERGOSTEROL-SYN-PWY	superpathway of ergosterol biosynthesis	ERG1	ERG9	ERG11	ERG24	ERG25	ERG26	ERG27	ERG6	ERG2	ERG3	ERG5	ERG4	ERG20	ERG10	ERG13	HMG1	HMG2	ERG12	ERG8	MVD1	IDI1	ERG7															YGR175C	YHR190W	YHR007C	YNL280C	YGR060W	YGL001C	YLR100W	YML008C	YMR202W	YLR056W	YMR015C	YGL012W	YJL167W	YPL028W	YML126C	YML075C	YLR450W	YMR208W	YMR220W	YNR043W	YPL117C	YHR072W														
+PWY-6963	ammonia assimilation cycle I	GLT1	GLN1																																			YDL171C	YPR035W																																		
+ALLANTOINDEG-PWY	superpathway of allantoin degradation in yeast	DAL3	DAL1	DAL2	DUR1,2																																	YIR032C	YIR027C	YIR029W	YBR208C																																
+SER-GLYSYN-PWY	superpathway of serine and glycine biosynthesis I	SER1	SER3	SER33	SER2	SHM1	SHM2																															YOR184W	YER081W	YIL074C	YGR208W	YBR263W	YLR058C																														
+PWY-6126	adenosine nucleotides <i>de novo</i> biosynthesis	ADE12	ADE13	ADK1	ADK2																																	YNL220W	YLR359W	YDR226W	YER170W																																
+PWY3O-114	superpathway of glutathione metabolism (truncated &gamma;-glutamyl cycle)	GSH1	GSH2	DUG1																																		YJL101C	YOL049W	G3O-2																																	
+PWY-5694	allantoin degradation to glyoxylate I	DAL3	DAL1	DAL2																																		YIR032C	YIR027C	YIR029W																																	
+PWY-841	superpathway of purine nucleotides <i>de novo</i> biosynthesis I	ADE4	ADE8	ADE6	ADE5,7	ADE2	ADE1	ADE17	ADE16	ADE12	ADE13	ADK1	ADK2	IMD2	IMD3	IMD4	GUA1	GUK1	RNR2	RNR4	RNR1	YNK1	TRX3	TRX1	TRX2													YMR300C	YDR408C	YGR061C	YGL234W	YOR128C	YAR015W	YMR120C	YLR028C	YNL220W	YLR359W	YDR226W	YER170W	YHR216W	YLR432W	YML056C	YMR217W	YDR454C	YJL026W	YGR180C	YER070W	YKL067W	G3O-35	G3O-7	G3O-19												
+PWY-7910	homofuraneol biosynthesis	YNL134C																																				G3O-33154																																			
+NADSYN-PWY	NAD <i>de novo</i> biosynthesis	NMA2	NMA1	QNS1	BNA6	BNA7	BNA3	BNA4	BNA5	BNA1	BNA2																											YGR010W	YLR328W	YHR074W	YFR047C	YDR428C	YJL060W	YBL098W	YLR231C	YJR025C	YJR078W																										
+FOLSYN-PWY	superpathway of tetrahydrofolate biosynthesis and salvage	FOL3	DFR1	FOL1	FOL2	ABZ1	ABZ2	MIS1	ADE8																													YMR113W	YOR236W	YNL256W	YGR267C	YNR033W	G3O-84	YBR084W	YDR408C																												
+PWY-6981	chitin biosynthesis	GDB1	GPH1	SGA1	PGM2	PGM1	NTH2	NTH1	ATH1	HXK1	HXK2	GLK1	YLR446W	EMI2	GFA1	GNA1	PCM1	QRI1	CHS3	CHS1	CHS5	CHS2	PGI1															YPR184W	YPR160W	YIL099W	YMR105C	YKL127W	YBR001C	YDR001C	YPR026W	YFR053C	YGL253W	YCL040W	G3O-32501	G3O-30035	YKL104C	YFL017C	YEL058W	YDL103C	YBR023C	YNL192W	YLR330W	YBR038W	YBR196C														
+BRANCHED-CHAIN-AA-SYN-PWY	superpathway of leucine, valine, and isoleucine biosynthesis	LEU2	LEU4	LEU9	LEU1	ILV3	BAT2	BAT1	ILV5	ILV2	ILV6	ILV1	CHA1																									YCL018W	YNL104C	YOR108W	YGL009C	YJR016C	YJR148W	YHR208W	YLR355C	YMR108W	YCL009C	YER086W	YCL064C																								
+SO4ASSIM-PWY	sulfate reduction I (assimilatory)	MET10	MET5	MET16	MET3	MET14	TRX3	TRX1	TRX2																													YFR030W	YJR137C	YPR167C	YJR010W	YKL001C	G3O-35	G3O-7	G3O-19																												
+PWY-6293	cysteine biosynthesis IV (fungi)	MET17	MET2	CYS4	CYS3	YML082W	STR2	STR3																														YLR303W	YNL277W	YGR155W	YAL012W	YML082W	YJR130C	YGL184C																													
+PWY3O-981	superpathway of acetoin and butanediol biosynthesis	BDH1	PDC1	PDC5	PDC6																																	YAL060W	YLR044C	YLR134W	YGR087C																																
+PWY-5910	superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)	ERG10	ERG13	HMG1	HMG2	ERG12	ERG8	MVD1	ERG20	IDI1	BTS1																											YPL028W	YML126C	YML075C	YLR450W	YMR208W	YMR220W	YNR043W	YJL167W	YPL117C	YPL069C																										
+PWY-7918	protein <i>N</i>-glycosylation (yeast) processing in the ER	CWH41	GTB1	ROT2	MNS1																																	YGL027C	G3O-29801	YBR229C	YJR131W																																
+PWY-7921	protein <I>O</i>-mannosylation I (yeast)	PMT5	PMT6	PMT4	PMT3	PMT7	PMT2	PMT1	DPM1	KTR3	KTR1	KRE2	MNN1	MNT3	MNT2																							YDL093W	YGR199W	YJR143C	YOR321W	G3O-29866	YAL023C	YDL095W	YPR183W	G3O-29145	G3O-33632	G3O-30008	YER001W	G3O-31290	G3O-30725																						
+MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS	protein <i>N</i>-glycosylation (eukaryotic) initial steps	ALG7	ALG13	ALG14	ALG1	ALG2	KTR7	YUR1	KTR6	KTR4	KTR2	KTR5	ALG11	ALG3	ALG12	ALG9	ALG6	ALG8	ALG10	DPM1	ALG5	STT3	WBP1	SWP1	OST6	OST5	OST4	OST3	OST2	OST1								YBR243C	G3O-28	G3O-29	YBR110W	YGL065C	YIL085C	YJL139C	YPL053C	G3O-29140	G3O-32029	G3O-33066	YNL048W	YBL082C	YNR030W	YNL219C	YOR002W	YOR067C	YGR227W	YPR183W	YPL227C	YGL022W	YEL002C	YMR149W	YML019W	YGL226C-A	YDL232W	YOR085W	YOR103C	YJL002C							
+PWY-6854	ethylene biosynthesis	FRE3	FRE1	FRE2	FRE4	FRE5	FRE7	SOD1	SOD2																													YOR381W	YLR214W	YKL220C	G3O-33364	G3O-33846	G3O-33540	YJR104C	YHR008C																												
+PWY-5026	indole-3-acetate biosynthesis V (bacteria and fungi)	NIT3	NIT1	NIT2																																		YLR351C	YIL164C	YJL126W																																	
+TRESYN-PWY	trehalose biosynthesis	TSL1	TPS1	TPS2	TPS3																																	YML100W	YBR126C	YDR074W	YMR261C																																
+PWY-5670	epoxysqualene biosynthesis	ERG1	ERG9																																			YGR175C	YHR190W																																		
+PWY66-423	fructose 2,6-bisphosphate biosynthesis	FBP26	YLR345W	PFK26	PFK27																																	YJL155C	G3O-32421	YIL107C	YOL136C																																
+PWY-7798	protein <i>S</i>-nitrosylation and denitrosylation	SFA1																																				YDL168W																																			
+PWY-7942	5-oxo-L-proline metabolism	OXP1	GCG1																																			G3O-31973	G3O-30324																																		
+PWY-6689	tRNA splicing	POA1	CPD1	TPT1	SEN1	SEN54	SEN34	SEN15	SEN2	TRL1																												G3O-29003	YGR247W	G3O-33500	G3O-32489	G3O-33989	G3O-28870	G3O-32762	G3O-32253	G3O-31543																											
+PWY-7344	UDP-D-galactose biosynthesis	GAL10																																				YBR019C																																			
+PWY-7375	mRNA capping	CET1	CEG1	ABD1																																		G3O-34116	G3O-30626	G3O-29167																																	
+PWY-7891	tRNA-uridine 2-thiolation (yeast mitochondria)	NFS1	TUM1	MSS1	MTO1	SLM3																																G3O-29283	YOR251C	G3O-32728	G3O-30709	G3O-29458																															
+PWY-7283	wybutosine biosynthesis	TYW4	TYW3	TYW2	TYW1	TRM5																																YOL141W	G3O-30560	G3O-32610	G3O-34098	G3O-31120																															
