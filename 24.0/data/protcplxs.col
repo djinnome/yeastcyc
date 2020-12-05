@@ -1,0 +1,198 @@
+# Copyright 1997-2013 The Board of Trustees of Leland Stanford Junior University. Permission to use the information contained in this database was given by the researchers/institutes who contributed or published the information. Users of the database are solely responsible for compliance with any copyright restrictions, including those applying to the author abstracts. Documents from this server are provided "AS-IS" without any warranty, expressed or implied.
+#
+# Authors:
+#    J. Michael Cherry
+#    Benjamin Vincent
+#    Rama Balakrishnan
+#    Julie Park
+#    Eurie Hong
+#    Cynthia Krieger
+#    Ron Caspi
+#    Hartmut Foerster
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Saccharomyces cerevisiae S288c
+# Database: NIL
+# Version: 22.6
+# File Name: protcplxs.col
+# Date and time generated: November 20, 2018, 14:28:52
+#
+#		1	2	3	4	5	6	7	8	9	10	11	1	2	3	4	5	6	7	8	9	10	11
+UNIQUE-ID	NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-NAME	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	GENE-ID	SUBUNIT-COMPOSITION
+CPLX-8685	malate synthase 1	MLS1											YNL117W											3*YNL117W-MONOMER
+CPLX3O-10529	cplx3o-10529																							1*MONOMER3O-32371
+CPLX-8571	serine palmitoyltransferase	LCB2	LCB1										YDR062W	YMR296C										1*YDR062W-MONOMER,1*YMR296C-MONOMER
+CPLX3O-10511	thiazole synthase	THI4											G3O-154											8*MONOMER3O-153
+CPLX-7727	dihydroorotate dehydrogenase, type 1A	URA1											YKL216W											2*YKL216W-MONOMER
+CPLX-8748	thiamine diphosphate kinase																							6*MONOMER-18224,6*MONOMER-18225
+CPLX-709	mevalonate diphosphate decarboxylase	MVD1											YNR043W											2*MONOMER-653
+CPLX-8573	inositol phosphorylceramide synthase	KEI1	AUR1										G3O-29917	YKL004W										1*G3O-29917-MONOMER,1*MONOMER3O-630
+CPLX-564	phosphoadenosine phosphosulfate reductase	MET16											YPR167C											2*YPR167C-MONOMER
+CPLX-7781	6,7-dimethyl-8-ribityllumazine synthase	RIB4											YOL143C											5*YOL143C-MONOMER
+CPLX-710	farnesyl diphosphate synthase	ERG20											YJL167W											2*MONOMER-655
+CPLX3O-71	2-oxo acid decarboxylase	ARO10											YDR380W											4*MONOMER3O-398
+CPLX3O-316	pyruvate dehydrogenase multienzyme complex	LPD1	PDX1	PDA1	PDB1	LAT1							YFL018C	YGR193C	YER178W	YBR221C	YNL071W							1*YFL018C-MONOMER,1*YGR193C-MONOMER,1*YER178W-MONOMER,1*YBR221C-MONOMER,1*YNL071W-MONOMER
+CPLX-566	<I>O</I>-acetylhomoserine sulfhydrylase	MET17											YLR303W											4*YLR303W-MONOMER
+CPLX3O-110	keto-isocaproate decarboxylase / 2-keto-methylvalerate decarboxylase	THI3											YDL080C											1*MONOMER3O-409
+CPLX3O-742	succinate dehydrogenase (ubiquinone)	SDH4	SDH3	SDH2	SDH1								YDR178W	YKL141W	YLL041C	YKL148C								1*YDR178W-MONOMER,1*YKL141W-MONOMER,1*YLL041C-MONOMER,1*YKL148C-MONOMER
+CPLX3O-10525	MethylthioRibose-1-phosphate Isomerase	MRI1											G3O-34257											2*G3O-34257-MONOMER
+CPLX3O-317	NAD-dependent 5,10-methylenetetrahydrafolate dehydrogenase	MTD1											YKR080W											2*YKR080W-MONOMER
+CPLX-9296	cysteine-<em>S</em>-conjugate &beta;-lyase	IRC7											YFR055W											4*YFR055W-MONOMER
+CPLX3O-117	cytochrome c oxidase	COX13	COX12	COX9	COX8	COX7	COX6	COX5A	COX4	COX3	COX2	COX1	YGL191W	YLR038C	YDL067C	YLR395C	YMR256C	YHR051W	YNL052W	YGL187C	Q0275	Q0250	Q0045	1*YGL191W-MONOMER,1*YLR038C-MONOMER,1*YDL067C-MONOMER,1*YLR395C-MONOMER,1*YMR256C-MONOMER,1*YHR051W-MONOMER,1*YNL052W-MONOMER,1*YGL187C-MONOMER,1*Q0275-MONOMER,1*Q0250-MONOMER,1*Q0045-MONOMER
+CPLX-8704	peroxisomal multifunctional enzyme type 2	FOX2											YKR009C											2*YKR009C-MONOMER
+CPLX3O-10526	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	GPM1											YKL152C											4*YKL152C-MONOMER
+CPLX-8310	tRNA<sup>His</sup> guanylyltransferase	THG1											G3O-30749											2*G3O-30749-MONOMER
+CPLX-9342	aromatic amino acid/aminoadipate aminotransferase	ARO8											YGL202W											2*YGL202W-MONOMER
+CPLX-7572	hexaprenyl diphosphate synthase	COQ1											YBR003W											2*YBR003W-MONOMER
+CPLX-8705	3-ketoacyl-CoA thiolase / 3-oxoacyl CoA thiolase	POT1											YIL160C											2*YIL160C-MONOMER
+CPLX-706	acetyl-CoA C-acetyltransferase	ERG10											YPL028W											1*YPL028W-MONOMER
+CPLX-8683	NADH:ubiquinone oxidoreductase (internal)	NDI1											YML120C											2*YML120C-MONOMER
+CPLX-8434	UDP-glucose pyrophosphorylase	UGP1											YKL035W											8*YKL035W-MONOMER
+CPLX-4261	glucose-6-phosphate isomerase	PGI1											YBR196C											2*YBR196C-MONOMER
+CPLX3O-67	pyruvate decarboxylase 2	PDC5											YLR134W											4*YLR134W-MONOMER
+CPLX-7627	fatty acid synthase	FAS2	FAS1										YPL231W	YKL182W										6*YPL231W-MONOMER,6*YKL182W-MONOMER
+CPLX3O-29	L-myo-inositol-1-phosphate synthase	INO1											YJL153C											4*YJL153C-MONOMER
+CPLX-707	hydroxymethylglutaryl-CoA synthase	ERG13											YML126C											2*YML126C-MONOMER
+CPLX3O-10541	COPI coatomer complex	SEC26	SEC21	RET2	RET3	COP1	SEC27	SEC28	ARF1				G3O-29813	G3O-33277	G3O-30497	G3O-33929	G3O-29542	G3O-30632	G3O-31341	G3O-29577				1*G3O-29813-MONOMER,1*G3O-33277-MONOMER,1*G3O-30497-MONOMER,1*G3O-33929-MONOMER,1*G3O-29542-MONOMER,1*G3O-30632-MONOMER,1*G3O-31341-MONOMER,1*G3O-29577-MONOMER
+CPLX-545	sulfate adenylyltransferase	MET3											YJR010W											2*YJR010W-MONOMER
+CPLX3O-679	isocitrate dehydrogenase [NAD]	IDH1	IDH2										YNL037C	YOR136W										1*YNL037C-MONOMER,2*YOR136W-MONOMER
+CPLX3O-10520	S-adenosylmethionine decarboxylase	SPE2											YOL052C											1*MONOMER3O-32361,1*MONOMER3O-32362
+CPLX-9252	mannosyl-oligosaccharide &alpha;-1,3-glucosidase	GTB1	ROT2										G3O-29801	YBR229C										1*G3O-29801-MONOMER,1*YBR229C-MONOMER
+CPLX3O-30	acetolactate synthase	ILV2	ILV6										YMR108W	YCL009C										1*MONOMER3O-29,1*YCL009C-MONOMER
+CPLX-8694	4-amino-2-methyl-5-phosphomethylpyrimidine synthase	THI5											G3O-30409											2*MONOMER3O-3915
+CPLX3O-109	ubiquinol cytochrome c reductase complex	QCR10	QCR9	QCR8	QCR7	QCR6	QCR2	COR1	CYT1	RIP1	COB		G3O-31243	YGR183C	YJL166W	YDR529C	YFR033C	YPR191W	YBL045C	G3O-102	YEL024W	Q0105		2*G3O-31243-MONOMER,2*YGR183C-MONOMER,2*YJL166W-MONOMER,2*YDR529C-MONOMER,2*YFR033C-MONOMER,2*YPR191W-MONOMER,2*YBL045C-MONOMER,2*MONOMER3O-103,2*YEL024W-MONOMER,2*Q0105-MONOMER
+CPLX3O-10521	ISU2 [Fe-s} cluster scaffold protein	ISU2											G3O-33724											2*G3O-33724-MONOMER
+CPLX-8670	ISU1 [Fe-S] cluster scaffold protein	ISU1											G3O-34034											2*G3O-34034-MONOMER
+CPLX-8294	tRNA (guanine<sup>10</sup>-<i>N</i><sup>2</sup>)-methyltransferase	TRM112	TRM11										G3O-33353	G3O-33520										1*G3O-33353-MONOMER,1*G3O-33520-MONOMER
+CPLX-9256	dolichyl-phosphate-mannose&mdash;protein mannosyltransferase	PMT2	PMT1										YAL023C	YDL095W										1*YAL023C-MONOMER,1*YDL095W-MONOMER
+CPLX-7560	alanine--glyoxylate aminotransferase 1	AGX1											YFL030W											2*MONOMER3O-372
+CPLX-8695	pyridoxamine 5'-phosphate oxidase/pyridoxine 5'-phosphate oxidase	PDX3											YBR035C											2*YBR035C-MONOMER
+CPLX-6892	arginase	CAR1											YPL111W											3*YPL111W-MONOMER
+CPLX-8673	sirohydrochlorin ferrochelatase / precorrin-2 dehydrogenase	MET8											G3O-29150											2*G3O-29150-MONOMER
+CPLX-8307	mitochondrial-processing peptidase	MAS2	MAS1										G3O-31085	G3O-32293										1*G3O-31085-MONOMER,1*G3O-32293-MONOMER
+CPLX-7567	glucan 1,4-&alpha;-glucosidase	SGA1											YIL099W											2*YIL099W-MONOMER
+CPLX-6954	branched-chain amino acid aminotransferase	BAT1											YHR208W											1*YHR208W-MONOMER
+CPLX-6842	glutamate dehydrogenase 2 (NADP-dependent)	GDH3											YAL062W											6*YAL062W-MONOMER
+CPLX3O-58	pyruvate decarboxylase 3	PDC6											YGR087C											4*YGR087C-MONOMER
+CPLX3O-25	thiamine pyrophosphokinase	THI80											YOR143C											2*YOR143C-MONOMER
+CPLX3O-10539	COPIb	SEC28	SEC27	COP1									G3O-31341	G3O-30632	G3O-29542									1*G3O-31341-MONOMER,1*G3O-30632-MONOMER,1*G3O-29542-MONOMER
+CPLX3O-10518	bifunctional purine biosynthesis protein ADE17	ADE17											YMR120C											2*YMR120C-MONOMER
+CPLX-8922	glutathione hydrolase	DUG3	DUG2										G3O-33202	G3O-29201										2*G3O-33202-MONOMER,4*G3O-29201-MONOMER
+CPLX-8690	alcohol dehydrogenase IV	ADH4											YGL256W											2*YGL256W-MONOMER
+CPLX-8639	bifunctional purine biosynthetic protein ADE5,7	ADE5,7											YGL234W											2*YGL234W-MONOMER
+CPLX-8216	tRNA-splicing endonuclease	SEN54	SEN34	SEN15	SEN2								G3O-33989	G3O-28870	G3O-32762	G3O-32253								1*G3O-33989-MONOMER,1*G3O-28870-MONOMER,1*G3O-32762-MONOMER,1*G3O-32253-MONOMER
+CPLX-7519	allantoicase	DAL2											YIR029W											6*YIR029W-MONOMER
+CPLX-645	adenylosuccinate lyase [multifunctional]	ADE13											YLR359W											4*YLR359W-MONOMER
+CPLX3O-4031	trehalose synthase complex	TSL1	TPS1	TPS2	TPS3								YML100W	YBR126C	YDR074W	YMR261C								1*MONOMER3O-4029,1*YBR126C-MONOMER,1*YDR074W-MONOMER,1*MONOMER3O-4030
+CPLX3O-213	glycine cleavage complex	GCV3	GCV1	GCV2	LPD1								G3O-163	YDR019C	YMR189W	YFL018C								1*G3O-28852-MONOMER,1*YDR019C-MONOMER,2*YMR189W-MONOMER,1*YFL018C-MONOMER
+CPLX3O-10536	N-terminal methionine <i>N</i><sup>&alpha;</sup>-acetyltransferase NatB	MDM20	NAT3										G3O-33480	G3O-34267										1*G3O-33480-MONOMER,1*G3O-34267-MONOMER
+CPLX3O-10515	ribonucleoside-diphosphate reductase	RNR2	RNR4	RNR1									YJL026W	YGR180C	YER070W									1*YJL026W-MONOMER,1*YGR180C-MONOMER,2*YER070W-MONOMER
+CPLX-8758	2-enoyl thioester reductase	ETR1											G3O-29006											2*G3O-29006-MONOMER
+CPLX-8629	thymidylate kinase	CDC8											YJR057W											2*YJR057W-MONOMER
+CPLX-8091	gamma-aminobutyrate transaminase	UGA1											YGR019W											4*YGR019W-MONOMER
+CPLX-7379	glutamate synthase (NADH)	GLT1											YDL171C											3*YDL171C-MONOMER
+CPLX-602	methionine adenosyltransferase 2	SAM2											YDR502C											4*MONOMER3O-1014
+CPLX3O-35	minor succinate dehydrogenase catalytic dimer	YJL045W	SDH2										YJL045W	YLL041C										1*YJL045W-MONOMER,1*YLL041C-MONOMER
+CPLX3O-155	thiazole synthase dimer	THI4											G3O-154											2*MONOMER3O-153
+CPLX3O-10530	dehydrodolichyl diphosphate syntase complex	NUS1	SRT1										G3O-29578	YMR101C										1*G3O-29578-MONOMER,1*YMR101C-MONOMER
+CPLX3O-10512	pyruvate dehydrogenase E1 component	PDB1	PDA1										YBR221C	YER178W										1*YBR221C-MONOMER,1*YER178W-MONOMER
+CPLX-8752	mRNA capping enzyme	CET1	CEG1										G3O-34116	G3O-30626										1*G3O-34116-MONOMER,1*G3O-30626-MONOMER
+CPLX-8575	inositol phosphorylceramide mannosyltransferase	CSH1	SUR1										G3O-29111	YPL057C										1*G3O-29111-MONOMER,1*MONOMER3O-703
+CPLX-7782	riboflavine synthetase	RIB5											YBR256C											3*MONOMER3O-75
+CPLX-7266	low-specificity L-threonine aldolase	GLY1											YEL046C											4*YEL046C-MONOMER
+CPLX-567	cystathionine &beta;-synthase	CYS4											YGR155W											4*YGR155W-MONOMER
+CPLX3O-77	phosphofructokinase	PFK1	PFK2										YGR240C	YMR205C										4*YGR240C-MONOMER,4*YMR205C-MONOMER
+CPLX3O-32	succinate dehydrogenase catalytic dimer	SDH1	SDH2										YKL148C	YLL041C										1*YKL148C-MONOMER,1*YLL041C-MONOMER
+CPLX3O-118	pyruvate decarboxylase 1	PDC1											YLR044C											4*MONOMER3O-117
+CPLX3O-10527	oligosaccharyl transferase complex	STT3	WBP1	SWP1	OST6	OST5	OST4	OST3	OST2	OST1			YGL022W	YEL002C	YMR149W	YML019W	YGL226C-A	YDL232W	YOR085W	YOR103C	YJL002C			1*YGL022W-MONOMER,1*YEL002C-MONOMER,1*YMR149W-MONOMER,1*YML019W-MONOMER,1*YGL226C-MONOMER,1*YDL232W-MONOMER,1*YOR085W-MONOMER,1*YOR103C-MONOMER,1*YJL002C-MONOMER
+CPLX3O-102	Acetyl-CoA carboxylase, mitochondrial	HFA1											YMR207C											4*YMR207C-MONOMER
+CPLX-8706	&Delta;3-&Delta;2 -enoyl-CoA isomerase	ECI1											YLR284C											6*YLR284C-MONOMER
+CPLX-8684	NADP-dependent isocitrate dehydrogenase	IDP2											YLR174W											2*YLR174W-MONOMER
+CPLX-7686	SAM:C-24 sterol methyltransferase	ERG6											YML008C											4*MONOMER3O-188
+CPLX-708	mevalonate kinase	ERG12											YMR208W											2*YMR208W-MONOMER
+CPLX-563	adenylylsulfate kinase	MET14											YKL001C											2*YKL001C-MONOMER
+CPLX3O-690	succinyl-CoA ligase	LSC1	LSC2										YOR142W	YGR244C										1*YOR142W-MONOMER,1*YGR244C-MONOMER
+CPLX3O-31	anthranilate synthase	TRP2	TRP3										YER090W	YKL211C										1*MONOMER3O-30,1*YKL211C-MONOMER
+CPLX3O-11	IMP-specific 5'-nucleotidase	ISN1											G3O-310											4*MONOMER3O-10
+CPLX3O-10524	HMP/HMP-P kinase and thiaminase II	THI20											G3O-33466											4*MONOMER3O-77
+CPLX-9284	isoamyl acetate-hydrolyzing esterase	IAH1											YOR126C											2*YOR126C-MONOMER
+CPLX-8699	pyridoxal 5'-phosphate synthase complex	SNO1	SNZ1										G3O-32795	G3O-32796										1*G3O-32795-MONOMER,6*G3O-32796-MONOMER
+CPLX-8309	tRNA (adenine<sup>58</sup>-<i>N</i><sup>1</sup>)-methyltransferase	GCD10	GCD14										G3O-33092	G3O-31576										1*G3O-33092-MONOMER,1*G3O-31576-MONOMER
+CPLX-7568	glycogen phosphorylase	GPH1											YPR160W											2*YPR160W-MONOMER
+CPLX-7009	S-hydroxymethyl-glutathione dehydrogenase/<i>S</i>-nitrosoglutathione dehydrogenase	SFA1											YDL168W											1*YDL168W-MONOMER
+CPLX-6891	pyrroline-5-carboxylate reductase	PRO3											YER023W											4*YER023W-MONOMER
+ALLANTOICASE-TRIMER	allantoicase trimer	DAL2											YIR029W											3*YIR029W-MONOMER
+CPLX3O-9180	TMP diphosphorylase/hydroxyethylthiazole kinase	THI6											YPL214C											8*YPL214C-MONOMER
+CPLX3O-630	thymidylate synthase	CDC21											YOR074C											2*YOR074C-MONOMER
+CPLX3O-272	sterol C-4 demethylation complex	ERG25	ERG26	ERG27	ERG28								YGR060W	YGL001C	YLR100W	G3O-270								1*YGR060W-MONOMER,1*YGL001C-MONOMER,1*YLR100W-MONOMER,1*MONOMER3O-271
+CPLX3O-10540	COPIf	RET3	RET2	SEC21	SEC26								G3O-33929	G3O-30497	G3O-33277	G3O-29813								1*G3O-33929-MONOMER,1*G3O-30497-MONOMER,1*G3O-33277-MONOMER,1*G3O-29813-MONOMER
+CPLX3O-10519	non-specific polyamine oxidase	FMS1											YMR020W											2*YMR020W-MONOMER
+CPLX-9064	nicotinamidase	PNC1											YGL037C											4*YGL037C-MONOMER
+CPLX-8436	cytosolic trehalase 1	NTH1											YDR001C											2*YDR001C-MONOMER
+CPLX-8646	phosphopantothenoylcysteine decarboxylase	CAB3	VHS3	SIS2									YKL088W	YOR054C	YKR072C									1*MONOMER3O-299,1*MONOMER3O-317,1*MONOMER3O-474
+CPLX-7158	glutamine synthetase, type II	GLN1											YPR035W											8*YPR035W-MONOMER
+CPLX-8241	thiol oxidase	ERO1											G3O-32708											2*G3O-32708-MONOMER
+CPLX-7559	nicotinate nucleotide adenylyltransferase	NMA1											YLR328W											4*YLR328W-MONOMER
+CPLX3O-887	carbamoyl phosphate synthetase	CPA1	CPA2										YOR303W	YJR109C										1*YOR303W-MONOMER,1*YJR109C-MONOMER
+CPLX-672	adenylosuccinate synthetase	ADE12											YNL220W											2*YNL220W-MONOMER
+CPLX3O-44	minor succinate dehydrogenase (ubiquinone)	SDH4	SDH3	SDH2	YJL045W								YDR178W	YKL141W	YLL041C	YJL045W								1*YDR178W-MONOMER,1*YKL141W-MONOMER,1*YLL041C-MONOMER,1*YJL045W-MONOMER
+CPLX3O-8	biotin carboxylase / acetyl-CoA carboxylase	ACC1											YNR016C											4*MONOMER3O-7
+CPLX3O-23	assimilatory sulfite reductase	MET10	MET5										YFR030W	YJR137C										2*MONOMER3O-21,2*MONOMER3O-22
+CPLX-8676	NAD(+)/NADH kinase	YEF1											G3O-30162											8*G3O-30162-MONOMER
+CPLX3O-10537	N-terminal methionine <i>N</i><sup>&alpha;</sup>-acetyltransferase NatC	MAK31	MAK10	MAK3									G3O-29336	G3O-30171	YPR051W									1*G3O-29336-MONOMER,1*G3O-30171-MONOMER,1*YPR051W-MONOMER
+CPLX-6841	glutamate dehydrogenase 1 (NADP-dependent)	GDH1											YOR375C											6*YOR375C-MONOMER
+CPLX-8675	NAD(+)/NADH kinase	UTR1											G3O-31684											6*G3O-31684-MONOMER
+CPLX3O-85	mitochondrial malate dehydrogenase	MDH1											YKL085W											2*YKL085W-MONOMER
+CPLX3O-88	cytosolic malate dehydrogenase	MDH2											YOL126C											2*YOL126C-MONOMER
+CPLX3O-10516	cplx3o-10516	RNR3	RNR1										YIL066C	YER070W										1*YIL066C-MONOMER,1*YER070W-MONOMER
+CPLX-8686	malate synthase 2	DAL7											YIR031C											3*YIR031C-MONOMER
+CPLX-8763	3-isopropylmalate dehydrogenase	LEU2											YCL018W											2*YCL018W-MONOMER
+CPLX3O-5	Cys-Gly metallodipeptidase	DUG1											G3O-2											2*MONOMER3O-4
+CPLX3O-83	peroxisome malate dehydrogenase	MDH3											YDL078C											2*YDL078C-MONOMER
+CPLX-8688	alcohol dehydrogenase II	ADH2											YMR303C											4*YMR303C-MONOMER
+CPLX3O-24	<em>N</em>-acetylglucosaminyldiphosphodolichol <em>N</em>-acetylglucosaminyltransferase	ALG13	ALG14										G3O-28	G3O-29										1*MONOMER3O-20,1*MONOMER3O-23
+CPLX-8689	alcohol dehydrogenase III	ADH3											YMR083W											4*YMR083W-MONOMER
+CPLX-8687	alcohol dehydrogenase I	ADH1											YOL086C											4*YOL086C-MONOMER
+CPLX-8637	GMP synthase	GUA1											YMR217W											2*YMR217W-MONOMER
+CPLX3O-10538	5-oxoprolinase (ATP-hydrolysing)	OXP1											G3O-31973											2*G3O-31973-MONOMER
+CPLX-8693	alcohol dehydrogenase V	ADH5											YBR145W											2*YBR145W-MONOMER
+CPLX3O-10517	ribonucleoside-diphosphate reductase	RNR1	RNR3	RNR2	RNR4								YER070W	YIL066C	YJL026W	YGR180C								1*YER070W-MONOMER,1*YIL066C-MONOMER,1*YJL026W-MONOMER,1*YGR180C-MONOMER
+CPLX-8140	hypoxanthine guanine phosphoribosyltransferase	HPT1											YDR399W											2*YDR399W-MONOMER
+CPLX-7401	glucosamine-6-phosphate <i>N</i>-acetyltransferase 1	GNA1											YFL017C											2*YFL017C-MONOMER
+CPLX-8921	M20A metallopeptidase	DUG2											G3O-29201											2*G3O-29201-MONOMER
+CPLX-623	homoserine <i>O</i>-acetyltransferase	MET2											YNL277W											2*YNL277W-MONOMER
+CPLX-8638	bifunctional purine biosynthesis protein ADE16	ADE16											YLR028C											2*YLR028C-MONOMER
+CPLX3O-80	HMP/HMP-P kinase and thiaminase II	THI20											G3O-33466											2*MONOMER3O-77
+CPLX-8141	adenine phosphoribosyltransferase	APT1											YML022W											2*YML022W-MONOMER
+CPLX3O-38	pyridoxal kinase / pyridoxamine kinase / pyridoxine kinase	BUD16											G3O-10											1*MONOMER3O-37
+CPLX-7479	3-hydroxyanthranilate 3,4-dioxygenase	BNA1											YJR025C											1*YJR025C-MONOMER
+CPLX3O-16	dihydrolipoyl transsuccinylase	KGD2											YDR148C											1*YDR148C-MONOMER
+CPLX-6362	cytoplasmic arsenate reductase	ARR2											G3O-34320											2*G3O-34320-MONOMER
+CPLX3O-10531	dehydrodolichyl diphosphate synthase complex	NUS1	RER2										G3O-29578	YBR002C										1*G3O-29578-MONOMER,1*YBR002C-MONOMER
+CPLX3O-82	hydroxymethylpyrimidine phosphate (HMP-P) kinase [multifunctional]	THI21											G3O-34143											2*MONOMER3O-81
+CPLX3O-10513	ribonucleoside-diphosphate reductase large subunit homodimer	RNR1											YER070W											2*YER070W-MONOMER
+CPLX3O-383	inositol phosphorylceramide mannosyltransferase	CSG2	SUR1										YBR036C	YPL057C										1*MONOMER3O-695,1*MONOMER3O-703
+CPLX-8753	PLP synthase	SNZ1											G3O-32796											6*G3O-32796-MONOMER
+CPLX3O-20	D-arabinose dehydrogenase	ARA1											YBR149W											1*MONOMER3O-32366,1*MONOMER3O-32367
+CPLX3O-10535	N-terminal amino acyl <i>N</i><sup>&alpha;</sup>-acetyltransferase NatA	NAT5	ARD1	NAT1									G3O-33744	YHR013C	YDL040C									1*G3O-33744-MONOMER,1*YHR013C-MONOMER,1*YDL040C-MONOMER
+CPLX-8623	cytidine deaminase	CDD1											YLR245C											2*YLR245C-MONOMER
+CPLX-7938	phosphatidylinositol-3,5-bisphosphate regulatory complex	VAC14	VAC7	FIG4	FAB1								G3O-32452	G3O-33086	G3O-33309	YFR019W								1*G3O-32452-MONOMER,1*G3O-33086-MONOMER,1*MONOMER3O-86,1*YFR019W-MONOMER
+CPLX3O-10514	ribonucleoside-diphosphate reductase small subunit heterodimer	RNR4	RNR2										YGR180C	YJL026W										1*YGR180C-MONOMER,1*YJL026W-MONOMER
+CPLX-8755	glycerol 3-phosphate dehydrogenase	GPD1											YDL022W											2*YDL022W-MONOMER
+CPLX-7294	L-lactate dehydrogenase	CYB2											YML054C											4*YML054C-MONOMER
+CPLX-568	cystathionine &gamma;-lyase	CYS3											YAL012W											4*YAL012W-MONOMER
+CPLX-8628	nucleoside diphosphate kinase	YNK1											YKL067W											6*YKL067W-MONOMER
+CPLX3O-78	ceramide synthase	LIP1	LAG1	LAC1									YMR298W	YHL003C	YKL008C									1*MONOMER3O-702,1*MONOMER3O-370,1*MONOMER3O-373
+CPLX-8046	2-(3-amino-3-carboxypropyl)histidine synthase	KTI11	DPH2	DPH1									G-11956	G-11955	G-11954									1*MONOMER-15580,1*MONOMER-15579,1*MONOMER-15578
+CPLX3O-33	2-ketoglutarate dehydrogenase complex	LPD1	KGD1	KGD2									YFL018C	YIL125W	YDR148C									1*YFL018C-MONOMER,1*YIL125W-MONOMER,1*YDR148C-MONOMER
+CPLX-7316	aspartate aminotransferase	AAT2											YLR027C											2*YLR027C-MONOMER
+CPLX3O-12	2-ketoglutarate dehydrogenase	KGD1											YIL125W											1*YIL125W-MONOMER
+CPLX-582	methionine adenosyltransferase 1	SAM1											YLR180W											4*YLR180W-MONOMER
+CPLX3O-79	(R,S)-2,3-butanediol dehydrogenase [multifunctional]	BDH1											YAL060W											2*YAL060W-MONOMER
+CPLX3O-10528	5-carboxymethylaminomethyluridine-[tRNA] synthase	MSS1	MTO1										G3O-32728	G3O-30709										1*G3O-32728-MONOMER,1*G3O-30709-MONOMER
+CPLX3O-105	ubiquinol cytochrome c reductase	COB	RIP1	CYT1	COR1	QCR2	QCR6	QCR7	QCR8	QCR9	QCR10		Q0105	YEL024W	G3O-102	YBL045C	YPR191W	YFR033C	YDR529C	YJL166W	YGR183C	G3O-31243		1*Q0105-MONOMER,1*YEL024W-MONOMER,1*MONOMER3O-103,1*YBL045C-MONOMER,1*YPR191W-MONOMER,1*YFR033C-MONOMER,1*YDR529C-MONOMER,1*YJL166W-MONOMER,1*YGR183C-MONOMER,1*G3O-31243-MONOMER
+CPLX3O-34	succinate dehydrogenase membrane dimer	SDH3	SDH4										YKL141W	YDR178W										1*YKL141W-MONOMER,1*YDR178W-MONOMER
+CPLX-8720	2,4-dienoyl-CoA reductase	SPS19											YNL202W											2*YNL202W-MONOMER
+CPLX3O-14	diphthamide biosynthesis protein RRT2	DPH7											G-34532											1*MONOMER-18824

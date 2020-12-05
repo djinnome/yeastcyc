@@ -1,0 +1,68 @@
+#field 7 DB:Reference errors: 0 errors
+
+#field 8 Evidence Code errors: 61 errors
+YeastCyc	MONOMER3O-419	YJL134W		GO:0005789	PMID:10477278	ERROR		C	sphingoid base phosphate phosphatase	LCB3|YSR2|LBP1|YJL134W	protein	taxon:559292	20120928	YeastCyc
+YeastCyc	YGL184C-MONOMER	YGL184C		GO:0005778	PMID:11565790	ERROR		C	cystathionine beta-lyase	STR3|YGL184C	protein	taxon:559292	20180228	YeastCyc
+YeastCyc	YDR272W-MONOMER	Glo2		GO:0005737	PMID:10600466	ERROR		C	glyoxalase II (cytoplasmic)	GLO2|YDR272W	protein	taxon:559292		
+YeastCyc	G3O-30192-MONOMER	apyrase		GO:0000139	PMID:10409709	ERROR		C	apyrase	YND1|YER005W	protein	taxon:559292	20130130	YeastCyc
+YeastCyc	YGL001C-MONOMER	YGL001C		GO:0005788	PMID:12119386	ERROR		C	C-3 sterol dehydrogenase	ERG26|YGL001C	protein	taxon:559292		
+YeastCyc	G3O-31970-MONOMER	YKL212W		GO:0005789	PMID:8314848	ERROR		C	phosphoinositide phosphatase	SAC1|YKL212W|RSD1|YKL212W	protein	taxon:559292		
+YeastCyc	G3O-31970-MONOMER	YKL212W		GO:0000139	PMID:8314848	ERROR		C	phosphoinositide phosphatase	SAC1|YKL212W|RSD1|YKL212W	protein	taxon:559292		
+YeastCyc	G3O-34137-MONOMER	YPL252C		GO:0005759	PMID:10375636	ERROR		C	adrenodoxin	YAH1|YPL252C	protein	taxon:559292	20160607	YeastCyc
+YeastCyc	MONOMER-13666	YOR374W		GO:0005759	PMID:9675847	ERROR		C	potassium-activated aldehyde dehydrogenase, mitochondrial	ALD4|ALDH2|ALD7|YOR374W|YOR374W	protein	taxon:559292		
+YeastCyc	MONOMER-13665	YER073W		GO:0005759	PMID:9059631	ERROR		C	aldehyde dehydrogenase, mitochondrial	ALD5|YER073W|YER073W	protein	taxon:559292		
+YeastCyc	YJL130C-MONOMER	YJL130C		GO:0005829	PMID:11015727	ERROR		C	carbamoyl phosphate synthase/aspartate carbamoyltransferase	URA2|YJL130C	protein	taxon:559292	20160331	YeastCyc
+YeastCyc	MONOMER-13664	YPL061W		GO:0005829	PMID:9392076	ERROR		C	magnesium-activated aldehyde dehydrogenase, cytosolic	ALD6|YPL061W|ALD1|YPL061W	protein	taxon:559292		
+YeastCyc	YMR170C-MONOMER	YMR170C		GO:0005829	PMID:10407263	ERROR		C	aldehyde dehydrogenase	ALD2|YMR170C	protein	taxon:559292		
+YeastCyc	YMR169C-MONOMER	YMR169C		GO:0005829	PMID:10407263	ERROR		C	aldehyde dehydrogenase	ALD3|YMR169C	protein	taxon:559292		
+YeastCyc	MONOMER3O-85	YJL097W		GO:0005789	PMID:18272525	ERROR		C	very-long-chain 3-hydroxyacyl-CoA dehydratase	PHS1|YJL097W|YJL097W	protein	taxon:559292	20120406	YeastCyc
+YeastCyc	MONOMER3O-271	Erg28p		GO:0005788	PMID:12119386	ERROR		C	Erg28p	ERG28|G3O-30223|YER044C|BUD18|YER044C	protein	taxon:559292		
+YeastCyc	YNR041C-MONOMER	YNR041C		GO:0005743	PMID:17482885	ERROR		C	hexaprenyl-diphosphate hexaprenyltransferase	COQ2|YNR041C	protein	taxon:559292		
+YeastCyc	YIR032C-MONOMER	YIR032C		GO:0016020	PMID:1776360	ERROR		C	ureidoglycolate urea-lyase	DAL3|YIR032C	protein	taxon:559292		
+YeastCyc	G3O-30249-MONOMER	YER078C		GO:0005743	PMID:19720832	ERROR		C	intermediate cleaving peptidase 55	ICP55|YER078C	protein	taxon:559292	20110623	YeastCyc
+YeastCyc	G3O-30249-MONOMER	YER078C		GO:0031981	PMID:19720832	ERROR		C	intermediate cleaving peptidase 55	ICP55|YER078C	protein	taxon:559292	20110623	YeastCyc
+YeastCyc	YGL203C-MONOMER	YGL203C		GO:0016020	PMID:2668738	ERROR		C	carboxypeptidase D	KEX1|YGL203C	protein	taxon:559292		
+YeastCyc	G3O-29283-MONOMER	YCL017C		GO:0005739	PMID:10551871	ERROR		C	L-cysteine desulfurase	NFS1|YCL017C	protein	taxon:559292	20130321	YeastCyc
+YeastCyc	YDR294C-MONOMER	YDR294C		GO:0005789	PMID:11102507	ERROR		C	sphingoid base phosphate lyase	DPL1|BST1|sphingosine phosphate lyase|YDR294C	protein	taxon:559292	20120928	YeastCyc
+YeastCyc	YHR037W-MONOMER	Put2		GO:0005759	PMID:7009582	ERROR		C	Delta1-pyrroline-5-carboxylate dehydrogenase	PUT2|YHR037W	protein	taxon:559292		
+YeastCyc	YGR255C-MONOMER	YGR255C		GO:0005759	PMID:12721307	ERROR		C	3-hexaprenyl-benzoate-5-monoxygenase	COQ6|YGR255C	protein	taxon:559292		
+YeastCyc	YGL012W-MONOMER	Erg4p		GO:0005788	PMID:10722850	ERROR		C	C-24 sterol reductase	ERG4|YGL012W	protein	taxon:559292		
+YeastCyc	YOR171C-MONOMER	YOR171C		GO:0005789	PMID:12493772	ERROR		C	sphingoid long chain base kinase 4	LCB4|YOR171C	protein	taxon:559292	20120927	YeastCyc
+YeastCyc	YOR171C-MONOMER	YOR171C		GO:0005829	PMID:9677363	ERROR		C	sphingoid long chain base kinase 4	LCB4|YOR171C	protein	taxon:559292	20120927	YeastCyc
+YeastCyc	YOR171C-MONOMER	YOR171C		GO:0000139	PMID:12459470	ERROR		C	sphingoid long chain base kinase 4	LCB4|YOR171C	protein	taxon:559292	20120927	YeastCyc
+YeastCyc	YKL024C-MONOMER	YKL024C		GO:0005829	PMID:8391780	ERROR		C	uridylate kinase	URA6|SOC8|YKL024C	protein	taxon:559292	20130129	YeastCyc
+YeastCyc	YKL024C-MONOMER	YKL024C		GO:0031981	PMID:8391780	ERROR		C	uridylate kinase	URA6|SOC8|YKL024C	protein	taxon:559292	20130129	YeastCyc
+YeastCyc	MONOMER-17855	YLR143W		GO:0005829	PMID:14562095	ERROR		C	diphthine--ammonia ligase	DPH6|YLR143W	protein	taxon:559292	20121127	YeastCyc
+YeastCyc	YMR272C-MONOMER	YMR272C		GO:0005788	PMID:9559540	ERROR		C	ceramide very long chain fatty acid hydroxylase	SCS7|FAH1|hydroxylase|YMR272C	protein	taxon:559292	20120927	YeastCyc
+YeastCyc	YDR400W-MONOMER	YDR400W		GO:0031981	PMID:14562095	ERROR		C	ribonucleoside hydrolase (pyrimidine-specific)	URH1|YDR400W	protein	taxon:559292	20130125	YeastCyc
+YeastCyc	YDR400W-MONOMER	YDR400W		GO:0005829	PMID:14562095	ERROR		C	ribonucleoside hydrolase (pyrimidine-specific)	URH1|YDR400W	protein	taxon:559292	20130125	YeastCyc
+YeastCyc	YDR236C-MONOMER	YDR236C		GO:0005743	PMID:10887197	ERROR		C	riboflavin kinase	FMN1|YDR236C	protein	taxon:559292		
+YeastCyc	YLR438W-MONOMER	YLR438W		GO:0005829	PMID:7009582	ERROR		C	ornithine aminotransferase	CAR2|cargB|ornithine-oxo-acid aminotransferase|YLR438W	protein	taxon:559292		
+YeastCyc	YLR100W-MONOMER	YLR100W		GO:0005788	PMID:12119386	ERROR		C	3-keto sterol reductase	ERG27|YLR100W	protein	taxon:559292		
+YeastCyc	G3O-30538-MONOMER	YGL018C		GO:0005759	PMID:11278728	ERROR		C	co-chaperone for [Fe-S] cluster biosynthesis	JAC1|SEO2|YGL018C	protein	taxon:559292	20130322	YeastCyc
+YeastCyc	CPLX-6362	YPR200C		GO:0005829	PMID:10801893	ERROR		C	cytoplasmic arsenate reductase		protein	taxon:559292		
+YeastCyc	CPLX-8755	Gpd1p		GO:0005829	PMID:15210723	ERROR		C	glycerol 3-phosphate dehydrogenase	glycerol 3-phosphate dehydrogenase	protein	taxon:559292	20131002	YeastCyc
+YeastCyc	CPLX-8755	Gpd1p		GO:0005777	PMID:15210723	ERROR		C	glycerol 3-phosphate dehydrogenase	glycerol 3-phosphate dehydrogenase	protein	taxon:559292	20131002	YeastCyc
+YeastCyc	CPLX-8628	YKL067W		GO:0005829	PMID:12472466	ERROR		C	nucleoside diphosphate kinase	nucleoside diphosphate kinase	protein	taxon:559292	20130129	YeastCyc
+YeastCyc	CPLX-8628	YKL067W		GO:0005758	PMID:12472466	ERROR		C	nucleoside diphosphate kinase	nucleoside diphosphate kinase	protein	taxon:559292	20130129	YeastCyc
+YeastCyc	CPLX-8573	inositol phosphorylceramide synthase		GO:0000139	PMID:10888667	ERROR		C	inositol phosphorylceramide synthase	inositol phosphorylceramide synthase|IPC synthase	protein	taxon:559292	20120927	YeastCyc
+YeastCyc	CPLX3O-10521	YOR226C		GO:0005759	PMID:10588895	ERROR		C	ISU2 [Fe-s} cluster scaffold protein	ISU2 [Fe-s} cluster scaffold protein	protein	taxon:559292	20130322	YeastCyc
+YeastCyc	CPLX-8307	MPP		GO:0005759	PMID:3061808	ERROR		C	mitochondrial-processing peptidase	mitochondrial-processing peptidase|MPP	protein	taxon:559292	20110623	YeastCyc
+YeastCyc	CPLX-7567	YIL099W		GO:0005775	PMID:2493265	ERROR		C	glucan 1,4-alpha-glucosidase	glucan 1,4-&alpha;-glucosidase	protein	taxon:559292		
+YeastCyc	CPLX-6954	YHR208W		GO:0005759	PMID:8798704	ERROR		C	branched-chain amino acid aminotransferase	branched-chain amino acid aminotransferase	protein	taxon:559292		
+YeastCyc	CPLX-8216	tRNA-splicing endonuclease		GO:0005741	PMID:12925762	ERROR		C	tRNA-splicing endonuclease	tRNA-splicing endonuclease	protein	taxon:559292		
+YeastCyc	YDR226W-MONOMER	YDR226W		GO:0005829	PMID:12045196	ERROR		C	adenylate kinase 1	ADK1|AKY2|AKY1|YDR226W	protein	taxon:559292	20130215	YeastCyc
+YeastCyc	CPLX-8309	tRNA (adenine58-N1)-methyltransferase		GO:0031981	PMID:9851972	ERROR		C	tRNA (adenine58-N1)-methyltransferase	tRNA (adenine<sup>58</sup>-<i>N</i><sup>1</sup>)-methyltransferase	protein	taxon:559292	20110628	YeastCyc
+YeastCyc	CPLX-6891	YER023W		GO:0005829	PMID:7009582	ERROR		C	pyrroline-5-carboxylate reductase		protein	taxon:559292		
+YeastCyc	CPLX-8241	YML130C		GO:0005788	PMID:16407158	ERROR		C	thiol oxidase	thiol oxidase	protein	taxon:559292		
+YeastCyc	CPLX3O-78	ceramide synthase		GO:0005788	PMID:15692566	ERROR		C	ceramide synthase	ceramide synthase|sphingosine <i>N</i>-acyltransferase	protein	taxon:559292	20120927	YeastCyc
+YeastCyc	CPLX-8670	YPL135W		GO:0005759	PMID:10588895	ERROR		C	ISU1 [Fe-S] cluster scaffold protein	ISU1 [Fe-S] cluster scaffold protein	protein	taxon:559292	20130322	YeastCyc
+YeastCyc	YBR003W-MONOMER	YBR003W		GO:0005743	PMID:17482885	ERROR		C	hexaprenyl diphosphate synthase subunit	COQ1|YBR003W	protein	taxon:559292		
+YeastCyc	G3O-32438-MONOMER	YLR369W		GO:0005759	PMID:10779357	ERROR		C	chaperone for [Fe-S] cluster biosynthesis	SSQ1|YLR369W	protein	taxon:559292	20130322	YeastCyc
+YeastCyc	YOL096C-MONOMER	YOL096C		GO:0005743	PMID:10419476	ERROR		C	hexaprenyldihydroxybenzoate methyltransferase	COQ3|YOL096C	protein	taxon:559292		
+YeastCyc	YGL055W-MONOMER	YGL055W		GO:0005789	PMID:8530368	ERROR		C	stearoyl-CoA 9-desaturase	OLE1|MDM2|stearoyl-CoA desaturase|YGL055W	protein	taxon:559292	20141124	YeastCyc
+YeastCyc	G3O-29445-MONOMER	YDL015C		GO:0005789	PMID:15958487	ERROR		C	very-long-chain enoyl-CoA reductase	TSC13|YDL015C|YDL015C	protein	taxon:559292	20120406	YeastCyc
+#field 9 With/From errors: 0 errors
+
+#field 15 no date/curator errors: 0 errors
+

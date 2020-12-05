@@ -1,0 +1,53 @@
+# Copyright 1997-2013 The Board of Trustees of Leland Stanford Junior University. Permission to use the information contained in this database was given by the researchers/institutes who contributed or published the information. Users of the database are solely responsible for compliance with any copyright restrictions, including those applying to the author abstracts. Documents from this server are provided "AS-IS" without any warranty, expressed or implied.
+#
+# Authors:
+#    J. Michael Cherry
+#    Benjamin Vincent
+#    Rama Balakrishnan
+#    Julie Park
+#    Eurie Hong
+#    Cynthia Krieger
+#    Ron Caspi
+#    Hartmut Foerster
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Saccharomyces cerevisiae S288c
+# Database: NIL
+# Version: 22.6
+# File Name: protein-features.dat
+# Date and time generated: November 20, 2018, 14:28:45
+#
+# Attributes:
+#    UNIQUE-ID
+#    TYPES
+#    COMMON-NAME
+#    ACCESSION-1
+#    ALTERNATE-SEQUENCE
+#    ATTACHED-GROUP
+#    CATALYTIC-ACTIVITY
+#    CITATIONS
+#    COMMENT
+#    COMPONENT-OF
+#    CREDITS
+#    DATA-SOURCE
+#    DBLINKS
+#    DOCUMENTATION
+#    FEATURE-COLOR
+#    FEATURE-OF
+#    HIDE-SLOT?
+#    HOMOLOGY-MOTIF
+#    INSTANCE-NAME-TEMPLATE
+#    LEFT-END-POSITION
+#    LINKAGE-TYPE
+#    MEMBER-SORT-FN
+#    PATHOLOGIC-NAME-MATCHER-EVIDENCE
+#    PATHOLOGIC-PWY-EVIDENCE
+#    POSSIBLE-FEATURE-STATES
+#    RESIDUE-NUMBER
+#    RESIDUE-TYPE
+#    RIGHT-END-POSITION
+#    SYNONYMS
+#
+# The YEAST database contains no Protein-Features.

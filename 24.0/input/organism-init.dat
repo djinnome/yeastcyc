@@ -1,0 +1,63 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; /share/yeast/aic-export/ecocyc/yeastcyc/1.0/input/organism-init.dat
+;; generated automatically by PathoLogic v. 6.0
+;;
+;; This file may be edited by the user so long as the correct format
+;; is maintained.  However, since the information in this file is stored in
+;; the KB once it is created, edits will only take effect if the KB has not
+;; yet been created, or if it is being reinitialized.
+;; Lines starting with ; are comment lines.  Each non-comment
+;; line should be of the form:
+;; ATTRIBUTE	value
+;; The separator character is the Tab character.  Case is not important
+;; except for literal strings.
+;; Valid attributes are:
+;;
+;; ORG-COUNTER (a number that uniquely identifies this database)
+;; DOMAIN (one of Bacteria, Eukarya or Archaea)
+;; CODON-TABLE (a number between 1 and 15 -- if not supplied, the
+;; standard codon table will be used)
+;; STORAGE (either File or Oracle, defaults to File)
+;; AUTHOR (project author -- either name only, or name:institution)
+;; CITATION (medline ID)
+;; HOMEPAGE (URL for project home-page)
+;; EMAIL (primary contact email for the project)
+;; DBNAME (The "pretty name" for the project database)
+;; COPYRIGHT (a copyright string, in html format, to appear on web pages)
+;; FOOTER-CITATION (a citation string, in html format, to appear on web
+;; pages, that users of the data should cite)
+;;
+;; All parameters are optional.  Multiple values may be supplied for 
+;; AUTHOR and CITATION, in which case, each should appear on its own line.
+;; If multiple values are supplied for any other field, all but the first 
+;; will be ignored.
+;; More attributes may be defined at a later time.
+;; Attributes other than these will be ignored.
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+ORG-COUNTER	132
+DOMAIN	EUKARYA
+CODON-TABLE	1
+HOMEPAGE	http://www.yeastgenome.org/
+EMAIL	yeast-curator@genome.stanford.edu
+AUTHOR	SGD curators:Saccharomyces Genome Database
+AUTHOR	
+AUTHOR	
+AUTHOR	
+AUTHOR	
+AUTHOR	
+AUTHOR	
+AUTHOR	
+CITATION	
+CITATION	
+CITATION	
+CITATION	
+CITATION	
+CITATION	
+CITATION	
+CITATION	
+CITATION	
+CITATION	
+DBNAME 	YeastCyc
+COPYRIGHT	Copyright &copy; 2002, Saccharomyces Genome Database
+FOOTER-CITATION	
