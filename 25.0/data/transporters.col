@@ -1,0 +1,38 @@
+# Copyright 1997-2013 The Board of Trustees of Leland Stanford Junior University. Permission to use the information contained in this database was given by the researchers/institutes who contributed or published the information. Users of the database are solely responsible for compliance with any copyright restrictions, including those applying to the author abstracts. Documents from this server are provided "AS-IS" without any warranty, expressed or implied.
+#
+# Authors:
+#    J. Michael Cherry
+#    Benjamin Vincent
+#    Rama Balakrishnan
+#    Julie Park
+#    Eurie Hong
+#    Cynthia Krieger
+#    Ron Caspi
+#    Hartmut Foerster
+#
+# Please see the license agreement regarding the use of and distribution of this file.
+# The format of this file is defined at http://bioinformatics.ai.sri.com/ptools/flatfile-format.html .
+#
+# Species: Saccharomyces cerevisiae S288c
+# Database: NIL
+# Version: 22.6
+# File Name: transporters.col
+# Date and time generated: November 20, 2018, 14:28:52
+#
+UNIQUE-ID	NAME	REACTION-EQUATION	SUBUNIT-COMPOSITION
+G3O-29733-MONOMER	ATP-dependent vacuolar transporter YBT1	a glutathione-S-conjugate[in] + ATP + H2O  <-->  a glutathione-S-conjugate[out] + ADP + phosphate + H+	1*G3O-29733-MONOMER
+		a dolichyl beta-D-mannosyl phosphate[in]  <-->  a dolichyl beta-D-mannosyl phosphate[out]	
+G3O-29839-MONOMER	Cross-Complements Ca(2+) phenotype of csg1	Cu2+[in] + ATP + H2O  <-->  Cu2+[out] + ADP + phosphate + H+	1*G3O-29839-MONOMER
+G3O-33362-MONOMER	7-keto 8-aminopelargonic acid transporter	8-amino-7-oxononanoate[extracellular space]  <-->  8-amino-7-oxononanoate[cytosol]	1*G3O-33362-MONOMER
+G3O-31319-MONOMER	NEOmycin-resistance	a phospholipid[in] + ATP + H2O  <-->  a phospholipid[out] + ADP + phosphate + H+	1*G3O-31319-MONOMER
+		alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol[in]  <-->  alpha-D-Man-(1->2)-alpha-D-Man-(1->2)-alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-alpha-D-GlcNAc-diphosphodolichol[out]	
+G3O-29653-MONOMER	P-type Na<sup>+</sup> transporter ENA2	ATP + Na+[in] + H2O  <-->  ADP + Na+[out] + phosphate + H+	1*G3O-29653-MONOMER
+G3O-33950-MONOMER	Plasma Membrane ATPase	ATP + H+[in] + H2O  <-->  ADP + phosphate + 2 H+[out]	1*G3O-33950-MONOMER
+		2-oxoadipate[mitochondrial lumen] + 2-oxoglutarate[cytosol]  <-->  2-oxoadipate[cytosol] + 2-oxoglutarate[mitochondrial lumen]	
+G3O-34378-MONOMER	ATP synthase	ADP + phosphate + 4 H+[out]  <-->  ATP + H2O + 3 H+[in]	1*G3O-34378-MONOMER
+G3O-29503-MONOMER	Guided Entry of Tailanchored proteins	arsenite[in] + ATP + H2O  <-->  arsenite[out] + ADP + phosphate + H+	1*G3O-29503-MONOMER
+		2 H+[in]  <-->  2 H+[out]	
+		a dolichyl beta-D-glucosyl phosphate[in]  <-->  a dolichyl beta-D-glucosyl phosphate[out]	
+		4 H+[in]  <-->  4 H+[out]	
+G3O-30530-MONOMER	Plasma Membrane Calcium	Ca2+[out] + ATP + H2O  <-->  Ca2+[in] + ADP + phosphate + H+	1*G3O-30530-MONOMER
+G3O-29213-MONOMER	P-type Cation-transporting ATPase	Cd2+[in] + ATP + H2O  <-->  Cd2+[out] + ADP + phosphate + H+	1*G3O-29213-MONOMER

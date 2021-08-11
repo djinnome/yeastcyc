@@ -1,0 +1,117 @@
+This file contains a set of tab-delimited tables describing the differences between an existing PGDB and a new annotation file.
+This file was generated on 07-Sep-2011  10:17:30.
+
+The following 100 new genes appear in the updated annotation:
+
+* = already created
+
+ 	ID	Name	Start	End	Function	Reaction(s)	
+	G3O-405	PHO11	225460	226863	Pho11p	3.1.3.2: NADP+ + H2O  ->  NAD+ + phosphate	
+ 	 	 	 	 	 	3.1.3.2: a phosphate monoester + H2O  =  phosphate + an alcohol	
+ 	 	 	 	 	 	3.1.3.2: thiamine-phosphate + H2O  ->  thiamin + phosphate	
+	G3O-404		222406	222891	Yar068wp		
+	G3O-403		221049	221660	Yar066wp		
+	G3O-402		220198	220497	Yar064wp		
+	G3O-401	FLO1	203403	208016	Flo1p		
+	G3O-400	SWH1	192619	196185	Swh1p		
+	G3O-399		192417	192337	Yar035c-ap		
+	G3O-398	YAT1	190193	192256	Yat1p	2.3.1.7: L-carnitine + acetyl-CoA  =  O-acetylcarnitine + coenzyme A	
+	G3O-397	MST28	188107	188811	Mst28p		
+	G3O-396	PRM9	186836	187732	Prm9p		
+	G3O-395		186321	186545	Yar029wp		
+	G3O-394		184892	185596	Yar028wp		
+	G3O-393	UIP3	183770	184477	Uip3p		
+	G3O-392		182603	182522			
+	G3O-391	SUP56	181141	181254			
+	G3O-390		179820	179281	Yar023cp		
+	G3O-389	PAU7	177023	176856	Pau7p		
+	G3O-388	CDC15	175135	172211	Cdc15p	2.7.11.1: a protein + ATP  ->  a phosphoprotein + ADP	
+	G3O-387	KIN3	171703	170396	Kin3p		
+	G3O-386	ADE1	169375	170295	Ade1p	6.3.2.6: ATP + 5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxylate + L-aspartate  =  ADP + phosphate + 5'-phosphoribosyl-4-(N-succinocarboxamide)-5-aminoimidazole + H+	
+	G3O-385	BUD14	168871	166742	Bud14p		
+	G3O-384		166267	166339			
+	G3O-383		165866	164544	Yar010cp		
+	G3O-382		164187	160597	Yar009cp		
+	G3O-381	SEN34	158966	159793	Sen34p	3.1.27.9: a polycistronic tRNA precursor  ->  a 5' half-tRNA molecule with a 2',3' cyclic phosphate on its 3' end + a 3' half-tRNA molecule with a hydroxyl on its 5' end + a tRNA intron	
+	G3O-380	RFA1	158619	156754	Rfa1p		
+	G3O-379	SWD1	155005	156285	Swd1p		
+	G3O-378	ERP1	154724	154065	Erp1p		
+	G3O-377	NUP60	152257	153876	Nup60p		
+	G3O-376	TFC3	151166	147594	Tfc3p		
+	G3O-375	VPS8	143707	147531	Vps8p		
+	G3O-374		142367	142468			
+	G3O-373	EFB1	142174	143160	Efb1p		
+	G3O-372	SSA1	141431	139503	Ssa1p		
+	G3O-371	TRN1	139152	139254			
+	G3O-370	ERP2	138345	137698	Erp2p		
+	G3O-369	FUN14	136914	137510	Fun14p		
+	G3O-368	SPO7	135854	136633	Spo7p		
+	G3O-367	MDM10	135665	134184	Mdm10p		
+	G3O-366	SWC3	132199	134076	Swc3p		
+	G3O-365	CYS3	130799	131983	Cys3p	4.4.1.1: L-cysteine + H2O  ->  ammonia + pyruvate + hydrogen sulfide + H+	
+ 	 	 	 	 	 	4.4.1.1: L-cystathionine + H2O  =  ammonia + 2-oxobutanoate + L-cysteine + H+	
+ 	 	 	 	 	 	4.4.1.1: L-homoserine  =  ammonia + 2-oxobutanoate + H+	
+	G3O-364	DEP1	129270	130487	Dep1p		
+	G3O-363	SYN8	129019	128252	Syn8p		
+	G3O-362	NTG1	128102	126903	Ntg1p		
+	G3O-361	TPD3	124879	126786	Tpd3p		
+	G3O-360	PSK1	120225	124295	Psk1p	2.7.11.1: a protein + ATP  ->  a phosphoprotein + ADP	
+	G3O-359		119541	118564	Yal018cp		
+	G3O-358	FUN30	114919	118314	Fun30p		
+	G3O-357	ATS1	114615	113614	Ats1p		
+	G3O-355	CCR4	113359	110846	Ccr4p	3.1.13.4: EC# 3.1.13.4	
+	G3O-354	FUN26	110430	108877	Fun26p		
+	G3O-353	PMT2	108551	106272	Pmt2p	2.4.1.109: a dolichyl b-D-mannosyl phosphate + a protein  =  a dolichyl phosphate + an O-D-mannosyl-protein	
+	G3O-352	LTE1	105872	101565	Lte1p		
+	G3O-351	MAK16	101145	100225	Mak16p		
+	G3O-350		99305	99868			
+	G3O-349	DRS2	99697	95630	Drs2p	3.6.3.1: a phospholipid[in] + ATP + H2O  ->  a phospholipid[out] + ADP + phosphate + H+	
+	G3O-348	SAW1	94687	95472	Saw1p		
+	G3O-347	FRT2	92900	94486	Frt2p		
+	G3O-346	MYO4	92270	87855	Myo4p		
+	G3O-345	SNC1	87286	87752	Snc1p		
+	G3O-344	GIP4	87031	84749	Gip4p		
+	G3O-342	PRP45	84474	83335	Prp45p		
+	G3O-341	POP5	82706	83227	Pop5p	3.1.26.5: a tRNA precursor with a 5' extension  ->  an uncharged tRNA + a single-stranded RNA	
+ 	 	 	 	 	 	3.1.26.5: a tRNA precursor with a 5' extension and a short 3' extension  ->  a tRNA precursor with a short 3' extension + a single-stranded RNA	
+	G3O-340	FUN19	81951	80710	Fun19p		
+	G3O-339	MTW1	79718	80587	Mtw1p		
+	G3O-338	FUN12	76427	79435	Fun12p		
+	G3O-337	RBG1	76152	75043	Rbg1p		
+	G3O-336		74020	74823	Yal037wp		
+	G3O-335		73518	73426	Yal037c-ap		
+	G3O-334	CDC19	71786	73288	Cdc19p	2.7.1.40: pyruvate + ATP  =  phosphoenolpyruvate + ADP + H+	
+	G3O-333	CYC3	69525	68716	Cyc3p	4.4.1.17: a cytochrome c  =  protoheme IX + an apocytochrome c	
+	G3O-332	CLN3	67520	65778	Cln3p		
+	G3O-331	CDC24	62840	65404	Cdc24p		
+	G3O-330	ERV46	61316	62563	Erv46p		
+	G3O-329	PTA1	61052	58695	Pta1p		
+	G3O-328	GCV3	58462	57950	Gcv3p		
+	G3O-327		57518	57850	Yal044w-ap		
+	G3O-326	AIM1	57385	57029	Aim1p		
+	G3O-325	SPC72	56857	54989	Spc72p		
+	G3O-324	GEM1	54789	52801	Gem1p		
+	G3O-323	AIM2	52595	51855	Aim2p		
+	G3O-321	OAF1	48564	51707	Oaf1p		
+	G3O-320	FLC2	45899	48250	Flc2p		
+	G3O-319	ACS1	45022	42881	Acs1p	6.2.1.1: acetate + ATP + coenzyme A  ->  acetyl-CoA + diphosphate + AMP	
+	G3O-318	PEX22	42177	42719	Pex22p		
+	G3O-317	GPB2	39259	41901	Gpb2p		
+	G3O-316	CNE1	37464	38972	Cne1p		
+	G3O-315	ECM1	36509	37147	Ecm1p		
+	G3O-314	BDH1	35155	36303	Bdh1p	1.1.1.4: (R,R)-2,3-butanediol + NAD+  =  (R)-acetoin + NADH + H+	
+ 	 	 	 	 	 	1.1.1.4: (R,S)-2,3-butanediol + NAD+  =  (R)-acetoin + NADH + H+	
+ 	 	 	 	 	 	1.1.1.4: (R,S)-2,3-butanediol + NAD+  =  (S)-acetoin + NADH + H+	
+	G3O-313	BDH2	33448	34701	Bdh2p		
+	G3O-312	GDH3	31567	32940	Gdh3p	1.4.1.4: L-glutamate + NADP+ + H2O  =  ammonia + 2-oxoglutarate + NADPH + 2 H+	
+	G3O-311	FLO9	27968	24000	Flo9p		
+	G3O-309		22685	22395	Yal063c-ap		
+	G3O-308		21566	21850	Yal064wp		
+	G3O-307	TDA8	13743	13363	Tda8p		
+	G3O-306		12046	12426	Yal064w-bp		
+	G3O-305		11951	11565	Yal065cp		
+	G3O-304	SEO1	9016	7235	Seo1p		
+	G3O-303		2480	2707	Yal067w-ap		
+	G3O-302	PAU8	2169	1807	Pau8p		
+
+
